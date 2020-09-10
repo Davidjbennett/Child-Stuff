@@ -20,4 +20,5 @@ print(str2)
 
 print(str.find("o"))
 print(str.rfind("o"))
+print(str.find("some"))
 
