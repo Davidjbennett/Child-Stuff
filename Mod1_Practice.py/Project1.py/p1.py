@@ -39,7 +39,8 @@ def friends(name):
 def main():
     #print(books)
     #print(ratings)
-    print(similarities)
+    print(similarities['ben'])
+    
     pass
 
 if __name__ == "__main__":
