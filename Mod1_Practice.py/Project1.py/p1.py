@@ -1,3 +1,6 @@
+import operator 
+from operator import itemgetter
+
 #Read in booklist
 with open("booklist.txt", 'r') as f:
     pass
@@ -33,14 +36,32 @@ def compute_scores():
 compute_scores()
 
 def friends(name):
-    affinityScores = similarities[name]
-    return affinityScores
+    all_friends = similarities[name]
+    top_friends = [name for name,_ in sorted(all_friends.items(), key=operator.itemgetter(1), reverse = True)]
+    return top_friends[0:2]
+
+def recommend(name):
+    my_friends = friends(name)
+
+    recommendations = []
+    my_ratings = ratings[name]
+
+    for friend in my_friends:
+        friend_ratings = ratings[friend]
+        for i in range(len(friend_ratings)):
+            if friend_ratings[i] >= 3 and my_ratings[i] == 0:
+                book = books[i]
+                if not book in recommendations:
+                    recommendations.append(book)
+    print(recommendations)
+    return sorted(recommendations, key=aut_title)
+
+def aut_title(book):
+    aut = book[0].split()
+    return (aut[-1], aut[0], book[1])
 
 def main():
-    #print(books)
-    #print(ratings)
-    print(similarities['ben'])
-    
+    print(recommend('ben'))
     pass
 
 if __name__ == "__main__":
