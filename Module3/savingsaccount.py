@@ -1,4 +1,4 @@
-class savingsAccount:
+class SavingsAccount:
     '''Defines a savings account'''
 
     #static variables
@@ -39,13 +39,13 @@ class savingsAccount:
             return None
 
     def computeInterest(self):
-        interest = self.balance * savingsAccount.RATE
+        interest = self.balance * SavingsAccount.RATE
         self.deposit(interest)
         return f"{interest:.2f}"
             
-
+ 
 if __name__ == "__main__":
-    sa1 = savingsAccount("Marc", "1234", 6.50)
+    sa1 = SavingsAccount("Marc", "1234", 6.50)
     print(sa1)
     print(sa1.getBalance())
     print(sa1.getName())
