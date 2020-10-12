@@ -13,11 +13,11 @@ class SavingsAccount:
     def __str__(self):
         result = "Name: " + self.name + "\n"
         result += "PIN: " + self.pin + "\n"
-        result += "Balance: " + f"{self.balance:.2f}"
+        result += "Balance: " + str(self.balance)
         return result
     
     def getBalance(self):
-        return f"{self.balance:.2f}"
+        return self.balance
     
     def getName(self):
         return self.name
@@ -32,16 +32,15 @@ class SavingsAccount:
     def withdraw(self, amount):
         if amount < 0:
             return "Amount must be >= 0"
-        elif self.balance < amount:
+        if self.balance < amount:
             return "Insufficient Funds"
-        else:
-            self.balance -= amount
-            return None
+        self.balance -= amount
+        return None
 
     def computeInterest(self):
         interest = self.balance * SavingsAccount.RATE
         self.deposit(interest)
-        return f"{interest:.2f}"
+        return interest
             
  
 if __name__ == "__main__":

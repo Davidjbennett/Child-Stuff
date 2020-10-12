@@ -1,5 +1,6 @@
 import operator 
 from operator import itemgetter
+from io import StringIO
 
 #Read in booklist
 with open("booklist.txt", 'r') as f:
@@ -60,9 +61,18 @@ def aut_title(book):
     aut = book[0].split()
     return (aut[-1], aut[0], book[1])
 
+def report():
+    s = StringIO()
+    for name in sorted(similarities.keys()):
+        print(name+':',friends(name), file=s)
+        for a in recommend(name):
+            print('\t',a,file=s)
+        print(file=s)
+    return s.getvalue()
+
 def main():
-    print(recommend('ben'))
-    pass
+    with open('recommendations.txt', 'w') as f:
+        print(report(), file=f, end='')
 
 if __name__ == "__main__":
     main()
