@@ -55,7 +55,7 @@ class Selector:
         if not self.cashBox.haveYou(choice.get_price()):
             print("Not enough money")
             return
-        print(choice.make())
+        choice.make()
         self.cashBox.deduct(choice.get_price())
 
 class CoffeeMachine:
