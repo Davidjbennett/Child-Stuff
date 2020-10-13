@@ -12,20 +12,19 @@ class Product:
         print(self.recipe)
 
 class CashBox:
-    credit = 0
-    totalRecieved = 0
-
     def __init__(self):
-        pass
+        self.credit = 0 #why do i implement this in the init vs above it?
+        self.totalRecieved = 0
 
     def deposit(self, amount):
+        if amount not in (5,10,25,50):
+            print("- INVALID AMOUNT >>>")
+            return
         self.credit += amount
+        print("Depositing", amount, "cents you have", self.credit, "cents credit.\n")
     
     def returnCoins(self):
-        returnTotal = 0
-        returnTotal += self.credit
-        self.credit -= self.credit
-        return returnTotal
+        print("Returning", self.credit, "cents.\n")
 
     def haveYou(self, amount):
         return amount <= self.credit
@@ -35,8 +34,9 @@ class CashBox:
         if self.haveYou(amount):
             self.credit -= amount
             self.totalRecieved += amount
-            print("Returning change "+ str(self.credit))
-
+            print("Returning", self.credit, "cents.\n")
+            self.credit = 0
+            
     def total(self):
         return self.totalRecieved
 
@@ -45,23 +45,23 @@ class CashBox:
 class Selector:
     def __init__(self, cashbox, products):
         self.cashBox = cashbox
-        self.products = Product
+        self.products = products
     
     def select(self, choiceIndex):
         if choiceIndex < 1 or choiceIndex > 5:
-            print("Invalid Choice")
+            print("- Invalid Choice >>>")
 
         choice = self.products[choiceIndex-1]    
         if not self.cashBox.haveYou(choice.get_price()):
-            print("Not enough money")
+            print("- Not enough money\n")
             return
-        choice.make()
-        self.cashBox.deduct(choice.get_price())
+        else:
+            choice.make()
+            self.cashBox.deduct(choice.get_price())
 
 class CoffeeMachine:
     def __init__(self):
         self.cashBox = CashBox()
-
         products = []
         products.append(Product("Black", 35, "Making Black:\n\tDispensing cup\n\tDispensing coffee\n"+
                                      "\tDispensing water"))
@@ -74,8 +74,9 @@ class CoffeeMachine:
                                      "\tDispensing water"))
         products.append(Product("Bouillon", 25, "Making Bouillon:\n\tDispensing cup\n"
                                      "\tDispensing Bouillon Powder\n\t Dispensing water\n"))
-
         self.selector = Selector(self.cashBox, products)
+
+        
 
     def one_action(self):
         print("PRODUCT LIST: all 35 cents, except bouillon (25 cents)\n" + 
@@ -87,26 +88,17 @@ class CoffeeMachine:
         resp = resp.split()
         
         if resp[0] == "quit":
-            if self.cashBox.credit != 0:
-                returned = self.cashBox.returnCoins()
-                print("Returning", returned, "cents")
-                print()
+            print(self.cashBox.totalRecieved)
             return False
+
         if resp[0] == "cancel":
-            returned = self.cashBox.returnCoins()
-            print("Returning", returned, "cents")
-            print()
+            self.cashBox.returnCoins()
             return True
+
         elif resp[0] == "insert":
-            if resp[1] == "5" or resp[1] == "10" or resp[1] == "25" or resp[1] == "50":
-                self.cashBox.deposit(int(resp[1]))
-                print("- Depositing ", resp[1], "cents. You have ", self.cashBox.credit, "cents credit")
-                print()
-            else:
-                print("- INVALID AMOUNT >>>")
-                print("- We only take half-dollars, quarters, dimes, and nickels.")
-                print()
+            self.cashBox.deposit(int(resp[1]))
             return True
+
         elif resp[0] == "select":
             self.selector.select(int(resp[1]))
             
