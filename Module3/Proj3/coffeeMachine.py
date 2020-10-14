@@ -45,12 +45,9 @@ class CashBox:
 class Selector:
     def __init__(self, cashbox, products):
         self.cashBox = cashbox
-        self.products = Product
+        self.products = products
     
     def select(self, choiceIndex):
-        if choiceIndex < 1 or choiceIndex > 5:
-            print("Invalid Choice")
-
         choice = self.products[choiceIndex-1]    
         if not self.cashBox.haveYou(choice.get_price()):
             print("Not enough money")
@@ -108,7 +105,10 @@ class CoffeeMachine:
                 print()
             return True
         elif resp[0] == "select":
-            self.selector.select(int(resp[1]))
+            if int(resp[1]) < 1 or int(resp[1]) > 5:
+                print("- INVALID ENTRY>>>")
+            else:
+                self.selector.select(int(resp[1]))
             
         else:
             print("- Invalid entry")

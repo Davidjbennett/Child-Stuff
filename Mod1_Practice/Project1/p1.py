@@ -64,15 +64,17 @@ def aut_title(book):
 def report():
     s = StringIO()
     for name in sorted(similarities.keys()):
-        print(name+':',friends(name), file=s)
+        print(name, ':')
+        print(friends(name), file=s)
         for a in recommend(name):
             print('\t',a,file=s)
         print(file=s)
+        print()
     return s.getvalue()
 
 def main():
-    with open('recommendations.txt', 'w') as f:
-        print(report(), file=f, end='')
+    with open('recommendations.txt', 'w') as rec_file:
+        print(report(), file=rec_file, end ='')
 
 if __name__ == "__main__":
     main()

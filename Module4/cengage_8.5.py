@@ -1,5 +1,6 @@
 import random
 from breezypythongui import EasyFrame
+#import Module4.breezypythongui from EasyFrame
 
 class GuessingGame(EasyFrame):
     """Plays a guessing game with the user."""
@@ -8,8 +9,8 @@ class GuessingGame(EasyFrame):
         """Sets up the window,widgets, and data."""
         EasyFrame.__init__(self, title = "Guessing Game")
 
-        self.lowerBound = random.randint(0,50)
-        self.upperBound = random.randint(0,50)
+        self.lowerBound = 1
+        self.upperBound = 100
         self.count = 0
 
         self.myNumber = (self.lowerBound + self.upperBound) // 2
@@ -32,15 +33,34 @@ class GuessingGame(EasyFrame):
 
     def goLarge(self):
         """Guess was too small, so move guess to the right of the number."""
-        self.lowerBound = self.myNumber
+        self.count += 1
+        self.lowerBound = self.lowerBound + 1
+        self.myNumber = (self.lowerBound + self.upperBound) // 2
+        guess = "Is the number " + str(self.myNumber) + "?"
+        self.addLabel(text = guess,
+                                       row = 0, column = 0,
+                                       sticky = "NSEW",
+                                       columnspan = 4)
+        
         
     def goSmall(self):
         """Guess was too large, so move guess to the left of the number."""
-        self.upperBound = self.myNumber
+        self.count += 1
+        self.upperBound = self.upperBound - 1
+        self.myNumber = (self.lowerBound + self.upperBound) // 2
+        guess = "Is the number " + str(self.myNumber) + "?"
+        self.addLabel(text = guess,
+                                       row = 0, column = 0,
+                                       sticky = "NSEW",
+                                       columnspan = 4)
+        
 
     def goCorrect(self):
         """Guess was too correct, so announce and wait."""
-        return False
+        self.myLabel = self.addLabel(text = "You are Correct",
+                                       row = 0, column = 0,
+                                       sticky = "NSEW",
+                                       columnspan = 4)
 
 
     def newGame(self):
