@@ -1,4 +1,3 @@
-['joshua', 'tiffany']
 	 ('Douglas Adams', "The Hitchhiker's Guide To The Galaxy")
 	 ('Dan Brown', 'The Da Vinci Code')
 	 ('F. Scott Fitzgerald', 'The Great Gatsby')
@@ -15,7 +14,6 @@
 	 ('H G Wells', 'The War Of The Worlds')
 	 ('John Wyndham', 'The Chrysalids')
 
-['shannon', 'roflol']
 	 ('Douglas Adams', "The Hitchhiker's Guide To The Galaxy")
 	 ('Dan Brown', 'The Da Vinci Code')
 	 ('Orson Scott Card', "Ender's Game")
@@ -34,11 +32,9 @@
 	 ('J R R Tolkien', 'The Lord of the Rings')
 	 ('H G Wells', 'The War Of The Worlds')
 
-['mike', 'moose']
 	 ('Cornelia Funke', 'Inkheart')
 	 ('Guy Gavriel Kay', 'The Summer Tree')
 
-['cust8', 'roflol']
 	 ('Douglas Adams', "The Hitchhiker's Guide To The Galaxy")
 	 ('Laurie Halse Anderson', 'Speak')
 	 ('Dan Brown', 'The Da Vinci Code')
@@ -59,7 +55,6 @@
 	 ('H G Wells', 'The War Of The Worlds')
 	 ('John Wyndham', 'The Chrysalids')
 
-['mclean', 'cust6']
 	 ('Laurie Halse Anderson', 'Speak')
 	 ('Jay Asher', 'Thirteen Reasons Why')
 	 ('Isaac Asimov', 'Foundation Series')
@@ -76,7 +71,6 @@
 	 ('Philip Pullman', 'The Golden Compass')
 	 ('H G Wells', 'The War Of The Worlds')
 
-['claire', 'tiffany']
 	 ('Richard Adams', 'Watership Down')
 	 ('F. Scott Fitzgerald', 'The Great Gatsby')
 	 ('William Golding', 'Lord of the Flies')
@@ -86,7 +80,6 @@
 	 ('Jodi Picoult', "My Sister's Keeper")
 	 ('J R R Tolkien', 'The Lord of the Rings')
 
-['cust8', 'sidney']
 	 ('Douglas Adams', "The Hitchhiker's Guide To The Galaxy")
 	 ('Laurie Halse Anderson', 'Speak')
 	 ('Ann Brashares', 'The Sisterhood of the Travelling Pants')
@@ -111,7 +104,6 @@
 	 ('H G Wells', 'The War Of The Worlds')
 	 ('John Wyndham', 'The Chrysalids')
 
-['douglas anderson', 'cust8']
 	 ('Laurie Halse Anderson', 'Speak')
 	 ('Ann Brashares', 'The Sisterhood of the Travelling Pants')
 	 ('Meg Cabot', 'The Princess Diaries')
@@ -126,7 +118,6 @@
 	 ('H G Wells', 'The War Of The Worlds')
 	 ('John Wyndham', 'The Chrysalids')
 
-['brian', 'douglas anderson']
 	 ('Dan Brown', 'The Da Vinci Code')
 	 ('William Goldman', 'The Princess Bride')
 	 ('Daniel Keyes', 'Flowers For Algernon')
@@ -137,7 +128,6 @@
 	 ('J R R Tolkien', 'The Hobbit')
 	 ('J R R Tolkien', 'The Lord of the Rings')
 
-['cust8', 'shannon']
 	 ('Douglas Adams', "The Hitchhiker's Guide To The Galaxy")
 	 ('Laurie Halse Anderson', 'Speak')
 	 ('Ann Brashares', 'The Sisterhood of the Travelling Pants')
@@ -157,7 +147,6 @@
 	 ('J R R Tolkien', 'The Lord of the Rings')
 	 ('John Wyndham', 'The Chrysalids')
 
-['leslie', 'joshua']
 	 ('Douglas Adams', "The Hitchhiker's Guide To The Galaxy")
 	 ('Dan Brown', 'The Da Vinci Code')
 	 ('Robert Ludlum', 'The Bourne Series')
@@ -167,7 +156,6 @@
 	 ('J R R Tolkien', 'The Hobbit')
 	 ('J R R Tolkien', 'The Lord of the Rings')
 
-['cust8', 'tiffany']
 	 ('Laurie Halse Anderson', 'Speak')
 	 ('William Goldman', 'The Princess Bride')
 	 ('Tite Kubo', 'Bleach (graphic novel)')
@@ -176,7 +164,6 @@
 	 ('Jeff Smith', 'Bone Series')
 	 ('Eric Walters', 'Shattered')
 
-['claire', 'mike']
 	 ('Richard Adams', 'Watership Down')
 	 ('Isaac Asimov', 'Foundation Series')
 	 ('Dan Brown', 'The Da Vinci Code')
@@ -193,7 +180,6 @@
 	 ('Louis Sachar', 'Holes')
 	 ('Art Spiegelman', "Maus: A Survivor's Tale")
 
-['moose', 'andrew']
 	 ('Douglas Adams', "The Hitchhiker's Guide To The Galaxy")
 	 ('Richard Adams', 'Watership Down')
 	 ('Maya Angelou', 'I Know Why the Caged Bird Sings')
@@ -213,7 +199,6 @@
 	 ('Art Spiegelman', "Maus: A Survivor's Tale")
 	 ('H G Wells', 'The War Of The Worlds')
 
-['francois', 'cust8']
 	 ('Laurie Halse Anderson', 'Speak')
 	 ('Ann Brashares', 'The Sisterhood of the Travelling Pants')
 	 ('Meg Cabot', 'The Princess Diaries')
@@ -229,7 +214,6 @@
 	 ('H G Wells', 'The War Of The Worlds')
 	 ('John Wyndham', 'The Chrysalids')
 
-['mike', 'andrew']
 	 ('Richard Adams', 'Watership Down')
 	 ('Isaac Asimov', 'Foundation Series')
 	 ('Tom Clancy', 'The Hunt for Red October')
@@ -240,7 +224,6 @@
 	 ('J R R Tolkien', 'The Lord of the Rings')
 	 ('H G Wells', 'The War Of The Worlds')
 
-['cust8', 'shannon']
 	 ('Laurie Halse Anderson', 'Speak')
 	 ('Ann Brashares', 'The Sisterhood of the Travelling Pants')
 	 ('Dan Brown', 'The Da Vinci Code')
@@ -257,7 +240,6 @@
 	 ('Philip Pullman', 'The Golden Compass')
 	 ('Louis Sachar', 'Holes')
 
-['sidney', 'hidan']
 	 ('Tom Clancy', 'The Hunt for Red October')
 	 ('William Golding', 'Lord of the Flies')
 	 ('C S Lewis', 'The Lion the Witch and the Wardrobe')
@@ -265,7 +247,6 @@
 	 ('Shueisha', 'Shonen Jump Series')
 	 ('J R R Tolkien', 'The Lord of the Rings')
 
-['rosanna', 'nunu']
 	 ('Dan Brown', 'The Da Vinci Code')
 	 ('Meg Cabot', 'The Princess Diaries')
 	 ('Orson Scott Card', "Ender's Game")
@@ -275,7 +256,6 @@
 	 ('C S Lewis', 'The Lion the Witch and the Wardrobe')
 	 ('Louis Sachar', 'Holes')
 
-['claire', 'mike']
 	 ('Douglas Adams', "The Hitchhiker's Guide To The Galaxy")
 	 ('Isaac Asimov', 'Foundation Series')
 	 ('Ann Brashares', 'The Sisterhood of the Travelling Pants')
@@ -290,7 +270,6 @@
 	 ('Garth Nix', 'Sabriel')
 	 ('Christopher Paolini', 'Eragon')
 
-['cust8', 'keeled']
 	 ('William Goldman', 'The Princess Bride')
 	 ('Tite Kubo', 'Bleach (graphic novel)')
 	 ('Harper Lee', 'To Kill a Mockingbird')
@@ -301,7 +280,6 @@
 	 ('J R R Tolkien', 'The Hobbit')
 	 ('J R R Tolkien', 'The Lord of the Rings')
 
-['megan', 'shannon']
 	 ('Douglas Adams', "The Hitchhiker's Guide To The Galaxy")
 	 ('Richard Adams', 'Watership Down')
 	 ('Dan Brown', 'The Da Vinci Code')
@@ -316,11 +294,9 @@
 	 ('J R R Tolkien', 'The Hobbit')
 	 ('J R R Tolkien', 'The Lord of the Rings')
 
-['shannon', 'roflol']
 	 ('Orson Scott Card', "Ender's Game")
 	 ('Masashi Kishimoto', 'Naruto')
 
-['mike', 'cust10']
 	 ('Tom Clancy', 'The Hunt for Red October')
 	 ('William Gibson', 'Neuromancer')
 	 ('William Goldman', 'The Princess Bride')
@@ -334,7 +310,6 @@
 	 ('Art Spiegelman', "Maus: A Survivor's Tale")
 	 ('J R R Tolkien', 'The Hobbit')
 
-['james', 'strongbad']
 	 ('Douglas Adams', "The Hitchhiker's Guide To The Galaxy")
 	 ('Isaac Asimov', 'Foundation Series')
 	 ('C S Lewis', 'The Lion the Witch and the Wardrobe')
@@ -344,7 +319,6 @@
 	 ('Art Spiegelman', "Maus: A Survivor's Tale")
 	 ('J R R Tolkien', 'The Hobbit')
 
-['hidan', 'joe']
 	 ('Douglas Adams', "The Hitchhiker's Guide To The Galaxy")
 	 ('Dan Brown', 'The Da Vinci Code')
 	 ('Orson Scott Card', "Ender's Game")
@@ -358,7 +332,6 @@
 	 ('Philip Pullman', 'The Golden Compass')
 	 ('Louis Sachar', 'Holes')
 
-['mclean', 'cust8']
 	 ('Douglas Adams', "The Hitchhiker's Guide To The Galaxy")
 	 ('Laurie Halse Anderson', 'Speak')
 	 ('Ann Brashares', 'The Sisterhood of the Travelling Pants')
@@ -381,7 +354,6 @@
 	 ('H G Wells', 'The War Of The Worlds')
 	 ('John Wyndham', 'The Chrysalids')
 
-['brian', 'cust8']
 	 ('Laurie Halse Anderson', 'Speak')
 	 ('Ann Brashares', 'The Sisterhood of the Travelling Pants')
 	 ('Meg Cabot', 'The Princess Diaries')
@@ -396,7 +368,6 @@
 	 ('H G Wells', 'The War Of The Worlds')
 	 ('John Wyndham', 'The Chrysalids')
 
-['cust8', 'ben']
 	 ('Douglas Adams', "The Hitchhiker's Guide To The Galaxy")
 	 ('Laurie Halse Anderson', 'Speak')
 	 ('Ann Brashares', 'The Sisterhood of the Travelling Pants')
@@ -422,7 +393,6 @@
 	 ('Patricia C. Wrede', 'Dealing with Dragons')
 	 ('John Wyndham', 'The Chrysalids')
 
-['shannon', 'roflol']
 	 ('Douglas Adams', "The Hitchhiker's Guide To The Galaxy")
 	 ('Dan Brown', 'The Da Vinci Code')
 	 ('Masashi Kishimoto', 'Naruto')
@@ -435,7 +405,6 @@
 	 ('J R R Tolkien', 'The Lord of the Rings')
 	 ('H G Wells', 'The War Of The Worlds')
 
-['megan', 'mike']
 	 ('Richard Adams', 'Watership Down')
 	 ('Tom Clancy', 'The Hunt for Red October')
 	 ('Cornelia Funke', 'Inkheart')
@@ -454,7 +423,6 @@
 	 ('Louis Sachar', 'Holes')
 	 ('Art Spiegelman', "Maus: A Survivor's Tale")
 
-['cust1', 'cust8']
 	 ('Laurie Halse Anderson', 'Speak')
 	 ('Ann Brashares', 'The Sisterhood of the Travelling Pants')
 	 ('Meg Cabot', 'The Princess Diaries')
@@ -470,7 +438,6 @@
 	 ('H G Wells', 'The War Of The Worlds')
 	 ('John Wyndham', 'The Chrysalids')
 
-['nathan', 'mike williams']
 	 ('Douglas Adams', "The Hitchhiker's Guide To The Galaxy")
 	 ('Mitch Albom', 'The Five People You Meet in Heaven')
 	 ('Isaac Asimov', 'Foundation Series')
@@ -478,7 +445,6 @@
 	 ('Suzanne Collins', 'The Hunger Games')
 	 ('Gary Paulsen', 'Hatchet')
 
-['andrew', 'parseclaws']
 	 ('Douglas Adams', "The Hitchhiker's Guide To The Galaxy")
 	 ('Richard Adams', 'Watership Down')
 	 ('Mitch Albom', 'The Five People You Meet in Heaven')
@@ -501,7 +467,6 @@
 	 ('J R R Tolkien', 'The Hobbit')
 	 ('H G Wells', 'The War Of The Worlds')
 
-['sidney', 'cust8']
 	 ('Douglas Adams', "The Hitchhiker's Guide To The Galaxy")
 	 ('Laurie Halse Anderson', 'Speak')
 	 ('Ann Brashares', 'The Sisterhood of the Travelling Pants')
@@ -520,7 +485,6 @@
 	 ('H G Wells', 'The War Of The Worlds')
 	 ('John Wyndham', 'The Chrysalids')
 
-['shannon', 'roflol']
 	 ('Douglas Adams', "The Hitchhiker's Guide To The Galaxy")
 	 ('Dan Brown', 'The Da Vinci Code')
 	 ('Meg Cabot', 'The Princess Diaries')
@@ -536,7 +500,6 @@
 	 ('Jeff Smith', 'Bone Series')
 	 ('H G Wells', 'The War Of The Worlds')
 
-['shannon', 'megan']
 	 ('Douglas Adams', "The Hitchhiker's Guide To The Galaxy")
 	 ('Richard Adams', 'Watership Down')
 	 ('Dan Brown', 'The Da Vinci Code')
@@ -555,7 +518,6 @@
 	 ('Jeff Smith', 'Bone Series')
 	 ('J R R Tolkien', 'The Lord of the Rings')
 
-['ben', 'claire']
 	 ('Douglas Adams', "The Hitchhiker's Guide To The Galaxy")
 	 ('Richard Adams', 'Watership Down')
 	 ('Ann Brashares', 'The Sisterhood of the Travelling Pants')
@@ -574,7 +536,6 @@
 	 ('H G Wells', 'The War Of The Worlds')
 	 ('Patricia C. Wrede', 'Dealing with Dragons')
 
-['shannon', 'hidan']
 	 ('Douglas Adams', "The Hitchhiker's Guide To The Galaxy")
 	 ('Dan Brown', 'The Da Vinci Code')
 	 ('Meg Cabot', 'The Princess Diaries')
@@ -587,7 +548,6 @@
 	 ('Philip Pullman', 'The Golden Compass')
 	 ('Jeff Smith', 'Bone Series')
 
-['leslie', 'narwhals']
 	 ('Dan Brown', 'The Da Vinci Code')
 	 ('Orson Scott Card', "Ender's Game")
 	 ('William Gibson', 'Neuromancer')
@@ -601,7 +561,6 @@
 	 ('J R R Tolkien', 'The Hobbit')
 	 ('J R R Tolkien', 'The Lord of the Rings')
 
-['parseclaws', 'mclean']
 	 ('Douglas Adams', "The Hitchhiker's Guide To The Galaxy")
 	 ('Mitch Albom', 'The Five People You Meet in Heaven')
 	 ('Orson Scott Card', "Ender's Game")
@@ -617,7 +576,6 @@
 	 ('J R R Tolkien', 'The Hobbit')
 	 ('John Wyndham', 'The Chrysalids')
 
-['strongbad', 'tiffany']
 	 ('Dan Brown', 'The Da Vinci Code')
 	 ('F. Scott Fitzgerald', 'The Great Gatsby')
 	 ('Cornelia Funke', 'Inkheart')
@@ -625,7 +583,6 @@
 	 ('Art Spiegelman', "Maus: A Survivor's Tale")
 	 ('Eric Walters', 'Shattered')
 
-['shannon', 'roflol']
 	 ('Douglas Adams', "The Hitchhiker's Guide To The Galaxy")
 	 ('Dan Brown', 'The Da Vinci Code')
 	 ('Orson Scott Card', "Ender's Game")
@@ -644,7 +601,6 @@
 	 ('J R R Tolkien', 'The Lord of the Rings')
 	 ('H G Wells', 'The War Of The Worlds')
 
-['mike', 'andrew']
 	 ('Maya Angelou', 'I Know Why the Caged Bird Sings')
 	 ('Orson Scott Card', "Ender's Game")
 	 ('Tom Clancy', 'The Hunt for Red October')
@@ -659,7 +615,6 @@
 	 ('Art Spiegelman', "Maus: A Survivor's Tale")
 	 ('H G Wells', 'The War Of The Worlds')
 
-['megan', 'moose']
 	 ('Richard Adams', 'Watership Down')
 	 ('Isaac Asimov', 'Foundation Series')
 	 ('Tom Clancy', 'The Hunt for Red October')
@@ -668,7 +623,6 @@
 	 ('Louis Sachar', 'Holes')
 	 ('H G Wells', 'The War Of The Worlds')
 
-['albus dumbledore', 'tiffany']
 	 ('Douglas Adams', "The Hitchhiker's Guide To The Galaxy")
 	 ('Dan Brown', 'The Da Vinci Code')
 	 ('F. Scott Fitzgerald', 'The Great Gatsby')
@@ -685,7 +639,6 @@
 	 ('H G Wells', 'The War Of The Worlds')
 	 ('John Wyndham', 'The Chrysalids')
 
-['cust8', 'shannon']
 	 ('Douglas Adams', "The Hitchhiker's Guide To The Galaxy")
 	 ('William Goldman', 'The Princess Bride')
 	 ('Masashi Kishimoto', 'Naruto')
@@ -697,7 +650,6 @@
 	 ('H G Wells', 'The War Of The Worlds')
 	 ('John Wyndham', 'The Chrysalids')
 
-['iren', 'hidan']
 	 ('Tom Clancy', 'The Hunt for Red October')
 	 ('Tite Kubo', 'Bleach (graphic novel)')
 	 ('C S Lewis', 'The Lion the Witch and the Wardrobe')
@@ -709,7 +661,6 @@
 	 ('J R R Tolkien', 'The Lord of the Rings')
 	 ('H G Wells', 'The War Of The Worlds')
 
-['shannon', 'roflol']
 	 ('Meg Cabot', 'The Princess Diaries')
 	 ('Orson Scott Card', "Ender's Game")
 	 ('Cornelia Funke', 'Inkheart')
@@ -723,14 +674,12 @@
 	 ('Jeff Smith', 'Bone Series')
 	 ('H G Wells', 'The War Of The Worlds')
 
-['hamza ali', 'nathan']
 	 ('Cornelia Funke', 'Inkheart')
 	 ('James Gurney', 'Dinotopia: A Land Apart from Time')
 	 ('Stephenie Meyer', 'Twilight Series')
 	 ('Jodi Picoult', "My Sister's Keeper")
 	 ('Louis Sachar', 'Holes')
 
-['joe', 'megan']
 	 ('Cornelia Funke', 'Inkheart')
 	 ('William Goldman', 'The Princess Bride')
 	 ('Alice Hoffman', 'Practical Magic')
@@ -745,7 +694,6 @@
 	 ('J R R Tolkien', 'The Lord of the Rings')
 	 ('H G Wells', 'The War Of The Worlds')
 
-['clipper', 'reuven']
 	 ('Libba Bray', 'A Great and Terrible Beauty')
 	 ('Daniel Keyes', 'Flowers For Algernon')
 	 ('C S Lewis', 'The Lion the Witch and the Wardrobe')
@@ -754,7 +702,6 @@
 	 ('Philip Pullman', 'The Golden Compass')
 	 ('John Wyndham', 'The Chrysalids')
 
-['ben', 'megan']
 	 ('Douglas Adams', "The Hitchhiker's Guide To The Galaxy")
 	 ('Cornelia Funke', 'Inkheart')
 	 ('William Goldman', 'The Princess Bride')
@@ -766,7 +713,6 @@
 	 ('H G Wells', 'The War Of The Worlds')
 	 ('Patricia C. Wrede', 'Dealing with Dragons')
 
-['cust8', 'tiffany']
 	 ('Douglas Adams', "The Hitchhiker's Guide To The Galaxy")
 	 ('Laurie Halse Anderson', 'Speak')
 	 ('Ann Brashares', 'The Sisterhood of the Travelling Pants')
@@ -785,7 +731,6 @@
 	 ('J R R Tolkien', 'The Lord of the Rings')
 	 ('Eric Walters', 'Shattered')
 
-['subria', 'narwhals']
 	 ('Douglas Adams', "The Hitchhiker's Guide To The Galaxy")
 	 ('Orson Scott Card', "Ender's Game")
 	 ('Cornelia Funke', 'Inkheart')
@@ -798,13 +743,11 @@
 	 ('Louis Sachar', 'Holes')
 	 ('J R R Tolkien', 'The Hobbit')
 
-['shannon', 'roflol']
 	 ('Meg Cabot', 'The Princess Diaries')
 	 ('Gary Paulsen', 'Hatchet')
 	 ('Jodi Picoult', "My Sister's Keeper")
 	 ('Jeff Smith', 'Bone Series')
 
-['andrew', 'moose']
 	 ('Richard Adams', 'Watership Down')
 	 ('Maya Angelou', 'I Know Why the Caged Bird Sings')
 	 ('F. Scott Fitzgerald', 'The Great Gatsby')
@@ -814,7 +757,6 @@
 	 ('Gary Paulsen', 'Hatchet')
 	 ('H G Wells', 'The War Of The Worlds')
 
-['cust6', 'cust8']
 	 ('Laurie Halse Anderson', 'Speak')
 	 ('Jay Asher', 'Thirteen Reasons Why')
 	 ('Ann Brashares', 'The Sisterhood of the Travelling Pants')
@@ -830,7 +772,6 @@
 	 ('H G Wells', 'The War Of The Worlds')
 	 ('John Wyndham', 'The Chrysalids')
 
-['andrew', 'megan']
 	 ('Maya Angelou', 'I Know Why the Caged Bird Sings')
 	 ('William Goldman', 'The Princess Bride')
 	 ('Daniel Keyes', 'Flowers For Algernon')
@@ -843,7 +784,6 @@
 	 ('Louis Sachar', 'Holes')
 	 ('Art Spiegelman', "Maus: A Survivor's Tale")
 
-['roflol', 'leslie']
 	 ('Dan Brown', 'The Da Vinci Code')
 	 ('Meg Cabot', 'The Princess Diaries')
 	 ('Cornelia Funke', 'Inkheart')
@@ -855,7 +795,6 @@
 	 ('Jodi Picoult', "My Sister's Keeper")
 	 ('Philip Pullman', 'The Golden Compass')
 
-['hamza ali', 'mike williams']
 	 ('Douglas Adams', "The Hitchhiker's Guide To The Galaxy")
 	 ('Mitch Albom', 'The Five People You Meet in Heaven')
 	 ('Isaac Asimov', 'Foundation Series')
@@ -863,7 +802,6 @@
 	 ('Suzanne Collins', 'The Hunger Games')
 	 ('Gary Paulsen', 'Hatchet')
 
-['cust8', 'megan']
 	 ('Douglas Adams', "The Hitchhiker's Guide To The Galaxy")
 	 ('Richard Adams', 'Watership Down')
 	 ('Laurie Halse Anderson', 'Speak')
@@ -884,7 +822,6 @@
 	 ('H G Wells', 'The War Of The Worlds')
 	 ('John Wyndham', 'The Chrysalids')
 
-['andrew', 'mike']
 	 ('Maya Angelou', 'I Know Why the Caged Bird Sings')
 	 ('Isaac Asimov', 'Foundation Series')
 	 ('Tom Clancy', 'The Hunt for Red October')
@@ -893,7 +830,6 @@
 	 ('Art Spiegelman', "Maus: A Survivor's Tale")
 	 ('J R R Tolkien', 'The Lord of the Rings')
 
-['ben', 'cust8']
 	 ('Douglas Adams', "The Hitchhiker's Guide To The Galaxy")
 	 ('Laurie Halse Anderson', 'Speak')
 	 ('Ann Brashares', 'The Sisterhood of the Travelling Pants')
@@ -922,7 +858,6 @@
 	 ('Patricia C. Wrede', 'Dealing with Dragons')
 	 ('John Wyndham', 'The Chrysalids')
 
-['cust10', 'moose']
 	 ('Isaac Asimov', 'Foundation Series')
 	 ('Tom Clancy', 'The Hunt for Red October')
 	 ('Cornelia Funke', 'Inkheart')
@@ -935,7 +870,6 @@
 	 ('J R R Tolkien', 'The Lord of the Rings')
 	 ('H G Wells', 'The War Of The Worlds')
 
-['cust10', 'mike']
 	 ('William Gibson', 'Neuromancer')
 	 ('William Goldman', 'The Princess Bride')
 	 ('Daniel Keyes', 'Flowers For Algernon')
@@ -945,7 +879,6 @@
 	 ('J.K. Rowling', 'Harry Potter Series')
 	 ('Art Spiegelman', "Maus: A Survivor's Tale")
 
-['ben', 'tiffany']
 	 ('F. Scott Fitzgerald', 'The Great Gatsby')
 	 ('William Goldman', 'The Princess Bride')
 	 ('Will Hobbs', 'Far North')
@@ -953,7 +886,6 @@
 	 ('Neil Shusterman', 'The Shadow Club')
 	 ('Jeff Smith', 'Bone Series')
 
-['shannon', 'cust8']
 	 ('Laurie Halse Anderson', 'Speak')
 	 ('Ann Brashares', 'The Sisterhood of the Travelling Pants')
 	 ('William Golding', 'Lord of the Flies')
@@ -963,7 +895,6 @@
 	 ('H G Wells', 'The War Of The Worlds')
 	 ('John Wyndham', 'The Chrysalids')
 
-['cust8', 'shannon']
 	 ('Douglas Adams', "The Hitchhiker's Guide To The Galaxy")
 	 ('Laurie Halse Anderson', 'Speak')
 	 ('Ann Brashares', 'The Sisterhood of the Travelling Pants')
@@ -980,7 +911,6 @@
 	 ('H G Wells', 'The War Of The Worlds')
 	 ('John Wyndham', 'The Chrysalids')
 
-['cust8', 'mike williams']
 	 ('Douglas Adams', "The Hitchhiker's Guide To The Galaxy")
 	 ('Mitch Albom', 'The Five People You Meet in Heaven')
 	 ('Laurie Halse Anderson', 'Speak')
@@ -1007,7 +937,6 @@
 	 ('H G Wells', 'The War Of The Worlds')
 	 ('John Wyndham', 'The Chrysalids')
 
-['roflol', 'ella']
 	 ('Douglas Adams', "The Hitchhiker's Guide To The Galaxy")
 	 ('Ann Brashares', 'The Sisterhood of the Travelling Pants')
 	 ('Dan Brown', 'The Da Vinci Code')
@@ -1025,7 +954,6 @@
 	 ('J R R Tolkien', 'The Hobbit')
 	 ('J R R Tolkien', 'The Lord of the Rings')
 
-['tiffany', 'mclean']
 	 ('Douglas Adams', "The Hitchhiker's Guide To The Galaxy")
 	 ('F. Scott Fitzgerald', 'The Great Gatsby')
 	 ('Cornelia Funke', 'Inkheart')
@@ -1040,7 +968,6 @@
 	 ('Eric Walters', 'Shattered')
 	 ('H G Wells', 'The War Of The Worlds')
 
-['leslie', 'shannon']
 	 ('Douglas Adams', "The Hitchhiker's Guide To The Galaxy")
 	 ('Meg Cabot', 'The Princess Diaries')
 	 ('Cornelia Funke', 'Inkheart')
@@ -1059,7 +986,6 @@
 	 ('J R R Tolkien', 'The Lord of the Rings')
 	 ('H G Wells', 'The War Of The Worlds')
 
-['cust8', 'sidney']
 	 ('Douglas Adams', "The Hitchhiker's Guide To The Galaxy")
 	 ('Laurie Halse Anderson', 'Speak')
 	 ('Ann Brashares', 'The Sisterhood of the Travelling Pants')
@@ -1083,10 +1009,8 @@
 	 ('H G Wells', 'The War Of The Worlds')
 	 ('John Wyndham', 'The Chrysalids')
 
-['joshua', 'albus dumbledore']
 	 ('Harper Lee', 'To Kill a Mockingbird')
 
-['roflol', 'cust8']
 	 ('Laurie Halse Anderson', 'Speak')
 	 ('Ann Brashares', 'The Sisterhood of the Travelling Pants')
 	 ('Orson Scott Card', "Ender's Game")
@@ -1096,7 +1020,6 @@
 	 ('Gary Paulsen', 'Hatchet')
 	 ('John Wyndham', 'The Chrysalids')
 
-['cust8', 'hidan']
 	 ('Douglas Adams', "The Hitchhiker's Guide To The Galaxy")
 	 ('Laurie Halse Anderson', 'Speak')
 	 ('Ann Brashares', 'The Sisterhood of the Travelling Pants')
@@ -1113,7 +1036,6 @@
 	 ('H G Wells', 'The War Of The Worlds')
 	 ('John Wyndham', 'The Chrysalids')
 
-['tiffany', 'roflol']
 	 ('Douglas Adams', "The Hitchhiker's Guide To The Galaxy")
 	 ('Dan Brown', 'The Da Vinci Code')
 	 ('Meg Cabot', 'The Princess Diaries')
@@ -1130,7 +1052,6 @@
 	 ('H G Wells', 'The War Of The Worlds')
 	 ('John Wyndham', 'The Chrysalids')
 
-['james', 'tiffany']
 	 ('Isaac Asimov', 'Foundation Series')
 	 ('Dan Brown', 'The Da Vinci Code')
 	 ('F. Scott Fitzgerald', 'The Great Gatsby')
@@ -1141,7 +1062,6 @@
 	 ('Eric Walters', 'Shattered')
 	 ('H G Wells', 'The War Of The Worlds')
 
-['cust8', 'roflol']
 	 ('Douglas Adams', "The Hitchhiker's Guide To The Galaxy")
 	 ('Laurie Halse Anderson', 'Speak')
 	 ('Ann Brashares', 'The Sisterhood of the Travelling Pants')
@@ -1156,20 +1076,17 @@
 	 ('H G Wells', 'The War Of The Worlds')
 	 ('John Wyndham', 'The Chrysalids')
 
-['cust8', 'claire']
 	 ('Richard Adams', 'Watership Down')
 	 ('Daniel Keyes', 'Flowers For Algernon')
 	 ('Robert Ludlum', 'The Bourne Series')
 	 ('Garth Nix', 'Sabriel')
 
-['tiffany', 'crom']
 	 ('C S Lewis', 'The Lion the Witch and the Wardrobe')
 	 ('George Orwell', 'Nineteen Eighty-Four (1984)')
 	 ('Gary Paulsen', 'Hatchet')
 	 ('Philip Pullman', 'The Golden Compass')
 	 ('J.K. Rowling', 'Harry Potter Series')
 
-['cust8', 'shannon']
 	 ('Douglas Adams', "The Hitchhiker's Guide To The Galaxy")
 	 ('Laurie Halse Anderson', 'Speak')
 	 ('Ann Brashares', 'The Sisterhood of the Travelling Pants')
@@ -1189,7 +1106,6 @@
 	 ('Jeff Smith', 'Bone Series')
 	 ('John Wyndham', 'The Chrysalids')
 
-['hidan', 'shannon']
 	 ('Douglas Adams', "The Hitchhiker's Guide To The Galaxy")
 	 ('Dan Brown', 'The Da Vinci Code')
 	 ('Meg Cabot', 'The Princess Diaries')
@@ -1206,7 +1122,6 @@
 	 ('J R R Tolkien', 'The Lord of the Rings')
 	 ('H G Wells', 'The War Of The Worlds')
 
-['cust8', 'shannon']
 	 ('Douglas Adams', "The Hitchhiker's Guide To The Galaxy")
 	 ('Laurie Halse Anderson', 'Speak')
 	 ('Ann Brashares', 'The Sisterhood of the Travelling Pants')
