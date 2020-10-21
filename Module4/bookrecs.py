@@ -62,15 +62,22 @@ def aut_title(book):
     return (aut[-1], aut[0], book[1])
 
 def report():
-    s = StringIO()
+    s = ""
     for name in sorted(similarities.keys()):
-        print(name, ':', friends(name))
-        print(name, ':', friends(name), file=s)
+        s += name + ": " + friends(name)[0] + ", " + friends(name)[1] + "\n"
         for a in recommend(name):
-            print('\t',a,file=s)
-        print(file=s)
-        print()
-    return s.getvalue()
+            s += "\t" + str(a[0]) + ", " + str(a[1]) + "\n"
+    return s
+
+    # s = StringIO()
+    # for name in sorted(similarities.keys()):
+    #     print(name, ':', friends(name))
+    #     print(name, ':', friends(name), file=s)
+    #     for a in recommend(name):
+    #         print('\t',a,file=s)
+    #     print(file=s)
+    #     print()
+    # return s.getvalue()
 
 def main():
     with open('recommendations.txt', 'w') as rec_file:
