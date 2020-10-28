@@ -38,7 +38,8 @@ compute_scores()
 
 def friends(name):
     all_friends = similarities[name]
-    top_friends = [name for name,_ in sorted(all_friends.items(), key=operator.itemgetter(1), reverse = True)]
+    top_friends = [name for name,_ in sorted(all_friends.items(), 
+                    key=operator.itemgetter(1), reverse = True)]
     return top_friends[0:2]
 
 def recommend(name):

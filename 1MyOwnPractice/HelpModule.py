@@ -1,3 +1,3 @@
-import math as m
 
-help(m)
+
+help()

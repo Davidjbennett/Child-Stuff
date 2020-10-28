@@ -1,7 +1,8 @@
-post = {"user_ID":209, "message":"Hello there", "language":"English", "datetime":"20201001T124231Z", "location":(44.890533, -104.715556)}
+post = {"user_ID":209, "message":"Hello there", "language":"English", 
+"datetime":"20201001T124231Z", "location":(44.890533, -104.715556)}
 #key:value We have 5 in the above dictionary
 
-post2 = {"message":"SS Cotopaxi", "language":"English"}
+post2 = dict(message="SS Cotopaxi", language="English")
 
 #! we are creating a new key here with the value
 post2["user_ID"] = 209

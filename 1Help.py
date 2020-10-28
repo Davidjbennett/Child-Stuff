@@ -1,1 +1,1 @@
-help(range)
+print(help(range))
