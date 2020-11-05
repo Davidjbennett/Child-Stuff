@@ -10,11 +10,10 @@ def load_employees():
         reader.readline()
 
         while reader:
-            emp = reader.readline().strip().split(',')
-            if(emp == ""):
+            emp = reader.readline().split(',')
+            if emp[0] == '':
                 return
             new_emp = Employee(emp[0],emp[1],emp[2],emp[3],emp[4],emp[5],emp[6])
-
             if emp[7] == "3":
                 new_emp.make_hourly(emp[10])
             elif emp[7] == "2":
