@@ -22,6 +22,9 @@ class Dog:
 
     def make_sound(self):
         print("Ruff")
+    
+    def __str__(self):
+        return self.name + str(self.age)
 
 def main():
     a = helloWorld(10,5)
@@ -31,7 +34,16 @@ def main():
     dog1 = Dog('Ruby', 3)
     dog2 = Dog('Tank', 1)
 
-    print(self.a)
+    dogs = [dog1, dog2]
+
+    for a in dogs:
+        if a not in dogs:
+            dogs.append(Dog('stump', 5))
+            
+    for i in dogs:
+        print(i)
+
+    #print(self.a)
     print(a)
 
 if __name__ == "__main__":
