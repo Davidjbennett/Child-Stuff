@@ -55,36 +55,44 @@ class Triangle(Shape):
     
     def getName(self):
          return "Triangle"
-
-class Monkey():
-    def __init__(self):
-        pass
     
-    # def getName(self):
-    #      return "im a monkey"
+    def newSides(self, s1, s2, s3):
+        self.side1 = s1
+        self.side2 = s2
+        self.side3 = s3
 
-def addShape(lyst, shape):
-    if isinstance(shape, Shape):
-        print(shape.getName(), "is a shape.")
-        return
-    else:
-        print(str(shape), "is not a shape")
-    lyst.append(shape)
+# class Monkey():
+#     def __init__(self):
+#         pass
+    
+#     def getName(self):
+#          return "im a monkey"
+
+# def addShape(lyst, shape):
+#     if isinstance(shape, Shape):
+#         print(shape.getName(), "is a shape.")
+#         return
+#     else:
+#         print(str(shape), "is not a shape")
+#     lyst.append(shape)
 
 lyst = []
 r = Rectangle(10,4)
 c = Circle(90)
 t = Triangle(5, 8, 12)
-addShape(lyst, r)
-addShape(lyst, c)
-addShape(lyst, t)
-addShape(lyst, Monkey())
+# addShape(lyst, r)
+# addShape(lyst, c)
+# addShape(lyst, t)
 
-for shape in lyst:
-    print(shape.getName(), shape.getArea())
 
-# def main():
-#     pass
 
-# if __name__ == "__main__":
-#     main()
+def main():
+    print(t.getArea())
+    t.newSides(52,65,34)
+    print(t.getArea())
+    # for shape in lyst:
+    #     print(shape.getArea() + ":")
+    #     print(shape.getName(), shape.getArea())
+
+if __name__ == "__main__":
+    main()

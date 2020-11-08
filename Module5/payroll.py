@@ -12,14 +12,23 @@ class Employee:
         self.zipcode = zipcode
         self.classification = None
 
-    def make_hourly(self, rate):
-        self.classification = Hourly(rate)
-    
-    def make_salaried(self, rate):
-        self.classification = Salaried(rate)
+    def getEmp_Id(self):
+        return self.emp_id
 
-    def make_commisioned(self, rate):
-        self.classification = Commisioned(rate)
+    def setClassfication(self, claass):
+        self.classification = claass
+    
+    def getClassification(self):
+        return self.classification
+
+    def make_hourly(self, hrate):
+        self.classification = Hourly(hrate)
+    
+    def make_salaried(self, salary):
+        self.classification = Salaried(salary)
+
+    def make_commissioned(self, commission, salary):
+        self.classification = Commissioned(commission,salary)
     
     def issue_payment(self):
         self.compute_pay()
@@ -51,16 +60,21 @@ class Salaried(Classification):
         self.salary = salary
 
     def compute_pay(self):
-        pass
+        return round(self.salary / 24, 2)
 
-class Commisioned(Classification):
-    def __init__(self, commision_rate):
-        self.commision_rate = commision_rate
-        self.reciepts = []
+class Commissioned(Classification):
+    def __init__(self, commission_rate, salary):
+        self.commission_rate = commission_rate
+        self.salary = salary
+        self.receipts = []
     
-    def add_reciepts(self, reciept_list):
-        self.reciepts.append(reciept_list)
+    def add_receipts(self, reciept_list):
+        self.receipts.append(reciept_list)
 
     def compute_pay(self):
-        pass
+        commission = 0
+        for x in self.receipts:
+            commission += (x * (self.commission_rate/100))
+        return round(self.salary/24 + commission ,2)
+
     
