@@ -1,10 +1,5 @@
 
 from abc import ABC, abstractmethod
-import p5
-import os, os.path, shutil
-
-PAY_LOGFILE = ""
-employees = []
 
 class Employee:
     def __init__(self, emp_id, first_name, last_name,address, city, state, zipcode):
@@ -30,25 +25,13 @@ class Employee:
         self.classification = Hourly(hrate)
     
     def make_salaried(self, salary):
-        self.classification = Salary(salary)
+        self.classification = Salaried(salary)
 
     def make_commissioned(self, commission, salary):
         self.classification = Commissioned(commission,salary)
     
     def issue_payment(self):
-        # s = ("Mailing "+ str(self.classification.compute_pay())+ " to "+ emp.first_name, emp.last_name, "at", emp.address, emp.city, emp.state, emp.zipcode)
-        # if isinstance(self.classification, Hourly):
-        #     self.classification.timecard = []
-
-        # if isinstance(self.classification, Commissioned):
-        #     self.classification.receipts = []
-        
-        # return s
-        with open(PAY_LOGFILE, 'a') as f:
-            name = self.first_name, self.last_name
-            addr = self.address + " " + self.city + ", " + self.state + " " + self.zipcode
-            amount = f'{self.classification.compute_pay()}'
-            print("Mailing ",amount,"to",name,"at",addr)
+        self.compute_pay()
 
 class Classification:
     def __init__(self):
@@ -70,16 +53,13 @@ class Hourly(Classification):
         total_hours_worked = 0
         for hours in self.timecard:
             total_hours_worked += hours
-        self.timecard = []
         return round(total_hours_worked * self.hourly_rate, 2)
 
-class Salary(Classification):
+class Salaried(Classification):
     def __init__(self, salary):
         self.salary = salary
 
     def compute_pay(self):
-        # with open(PAY_LOGFILE, 'a') as f:
-
         return round(self.salary / 24, 2)
 
 class Commissioned(Classification):
@@ -95,7 +75,6 @@ class Commissioned(Classification):
         commission = 0
         for x in self.receipts:
             commission += (x * (self.commission_rate/100))
-        self.receipts = []
         return round(self.salary/24 + commission ,2)
 
     
