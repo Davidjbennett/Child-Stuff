@@ -3,10 +3,14 @@ from matplotlib import pyplot as plt
 import numpy as np
 
 file_data = np.loadtxt('2_Record2308.dat')
-
 plt.plot(file_data)
 plt.ylabel("y label")
 plt.xlabel("x label")
+plt.show()
+
+_,axis = plt.subplots()
+axis.plot([10,15,5,7,0,40])
+axis.set(title="yVals")
 plt.show()
 
 # file_data1 = np.loadtxt('2_Record3388.dat')

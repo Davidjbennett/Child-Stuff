@@ -2,8 +2,11 @@ import glob
 import numpy as np
 import matplotlib.pyplot as plt
 
+VT = 100
+WIDTH = 50
+
 def analyze(fname):
-    vT = 100
+    
 
     #! read raw data
     raw_data = np.loadtxt(fname)
@@ -13,23 +16,29 @@ def analyze(fname):
 
     #! find pulses
     pulseList = []
-    for i in range(0,len(smooth_data)-3):
-        if (smooth_data[i+2]-smooth_data[i]) >= 100:
-            pulseList.append(smooth_data[i])
-        else:
-            pulseList.append(0)
+    for i in range(0,len(smooth_data)-2):
+        if (smooth_data[i+2]-smooth_data[i]) > VT:
+            pulseList.append(i)
 
+            i += 1
+            while i < len(smooth_data) and smooth_data[i+1] > smooth_data[i]:
+                i+=1
+                
     #! plot the data
-    # plt.plot(raw_data,label="Raw")
-    # plt.plot(smooth_data,label="Smooth")
-    plt.plot(pulseList,label="Pulses")
-    plt.legend()
-    plt.show()
+    _,axes = plt.subplots(nrows=2)
 
+    axes[0].plot(raw_data, color ='r')
+    axes[0].set(title=fname, ylabel="Raw Data", xticks=[])
+    axes[1].plot(smooth_data, color ='y')
+    axes[1].set(title=fname, ylabel= "Smooth Data")
+    # axes[2].plot(pulseList, color ='b')
+    # axes[2].set(title=fname, ylabel= "Pulse Data")
+
+    pdf_file = fname[0:-3] + "pdf"
     #! calculate area and write to file
-    
-
-    #len(raw_data)
+    plt.savefig(pdf_file)
+    plt.tight_layout()
+    plt.show()
 
 def smooth(data):
     '''Smoothing filter returns a smoothed copy of the input'''
