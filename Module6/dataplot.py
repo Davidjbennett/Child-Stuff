@@ -16,13 +16,23 @@ def analyze(fname):
 
     #! find pulses
     pulseList = []
+    pulseCount = 0
+    pulseArea = 0
+    pulseStart = 0
+    counter = 1
+
     for i in range(0,len(smooth_data)-2):
         if (smooth_data[i+2]-smooth_data[i]) > VT:
             pulseList.append(i)
+            
 
             i += 1
             while i < len(smooth_data) and smooth_data[i+1] > smooth_data[i]:
-                i+=1
+                i += 1
+                pulseArea += raw_data[i]
+
+    # print("Pulse " + pulseCount + ": " + pulseStart + " (" + pulseArea + ")")
+        
                 
     #! plot the data
     _,axes = plt.subplots(nrows=2)
@@ -38,7 +48,7 @@ def analyze(fname):
     #! calculate area and write to file
     plt.savefig(pdf_file)
     plt.tight_layout()
-    plt.show()
+    # plt.show()
 
 def smooth(data):
     '''Smoothing filter returns a smoothed copy of the input'''
