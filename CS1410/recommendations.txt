@@ -1,0 +1,1142 @@
+albus dumbledore: joshua, tiffany
+	Douglas Adams, The Hitchhiker's Guide To The Galaxy
+	Dan Brown, The Da Vinci Code
+	F. Scott Fitzgerald, The Great Gatsby
+	Cornelia Funke, Inkheart
+	William Goldman, The Princess Bride
+	C S Lewis, The Lion the Witch and the Wardrobe
+	Gary Paulsen, Hatchet
+	Jodi Picoult, My Sister's Keeper
+	Philip Pullman, The Golden Compass
+	Louis Sachar, Holes
+	J R R Tolkien, The Hobbit
+	J R R Tolkien, The Lord of the Rings
+	Eric Walters, Shattered
+	H G Wells, The War Of The Worlds
+	John Wyndham, The Chrysalids
+alexandra: shannon, roflol
+	Douglas Adams, The Hitchhiker's Guide To The Galaxy
+	Dan Brown, The Da Vinci Code
+	Orson Scott Card, Ender's Game
+	Cornelia Funke, Inkheart
+	William Goldman, The Princess Bride
+	Masashi Kishimoto, Naruto
+	Robert Ludlum, The Bourne Series
+	Stephenie Meyer, Twilight Series
+	Christopher Paolini, Eragon
+	Gary Paulsen, Hatchet
+	Jodi Picoult, My Sister's Keeper
+	J.K. Rowling, Harry Potter Series
+	Louis Sachar, Holes
+	Jeff Smith, Bone Series
+	J R R Tolkien, The Hobbit
+	J R R Tolkien, The Lord of the Rings
+	H G Wells, The War Of The Worlds
+andrew: mike, moose
+	Cornelia Funke, Inkheart
+	Guy Gavriel Kay, The Summer Tree
+anna-carol: cust8, roflol
+	Douglas Adams, The Hitchhiker's Guide To The Galaxy
+	Laurie Halse Anderson, Speak
+	Dan Brown, The Da Vinci Code
+	Meg Cabot, The Princess Diaries
+	Orson Scott Card, Ender's Game
+	Cornelia Funke, Inkheart
+	William Golding, Lord of the Flies
+	William Goldman, The Princess Bride
+	Masashi Kishimoto, Naruto
+	Tite Kubo, Bleach (graphic novel)
+	Robert Ludlum, The Bourne Series
+	Christopher Paolini, Eragon
+	Jodi Picoult, My Sister's Keeper
+	Philip Pullman, The Golden Compass
+	J.K. Rowling, Harry Potter Series
+	Jeff Smith, Bone Series
+	J R R Tolkien, The Lord of the Rings
+	H G Wells, The War Of The Worlds
+	John Wyndham, The Chrysalids
+apollo: mclean, cust6
+	Laurie Halse Anderson, Speak
+	Jay Asher, Thirteen Reasons Why
+	Isaac Asimov, Foundation Series
+	Libba Bray, A Great and Terrible Beauty
+	Dan Brown, The Da Vinci Code
+	Tom Clancy, The Hunt for Red October
+	Cornelia Funke, Inkheart
+	William Golding, Lord of the Flies
+	Yann Martel, Life of Pi
+	Stephenie Meyer, Twilight Series
+	Garth Nix, Sabriel
+	Christopher Paolini, Eragon
+	Jodi Picoult, My Sister's Keeper
+	Philip Pullman, The Golden Compass
+	H G Wells, The War Of The Worlds
+ben: claire, tiffany
+	Richard Adams, Watership Down
+	F. Scott Fitzgerald, The Great Gatsby
+	William Golding, Lord of the Flies
+	William Goldman, The Princess Bride
+	Daniel Keyes, Flowers For Algernon
+	Garth Nix, Sabriel
+	Jodi Picoult, My Sister's Keeper
+	J R R Tolkien, The Lord of the Rings
+boxxy: cust8, sidney
+	Douglas Adams, The Hitchhiker's Guide To The Galaxy
+	Laurie Halse Anderson, Speak
+	Ann Brashares, The Sisterhood of the Travelling Pants
+	Dan Brown, The Da Vinci Code
+	Meg Cabot, The Princess Diaries
+	Cornelia Funke, Inkheart
+	William Golding, Lord of the Flies
+	William Goldman, The Princess Bride
+	Masashi Kishimoto, Naruto
+	C S Lewis, The Lion the Witch and the Wardrobe
+	Robert Ludlum, The Bourne Series
+	Stephenie Meyer, Twilight Series
+	Christopher Paolini, Eragon
+	Jodi Picoult, My Sister's Keeper
+	Philip Pullman, The Golden Compass
+	J.K. Rowling, Harry Potter Series
+	Louis Sachar, Holes
+	Shueisha, Shonen Jump Series
+	Jeff Smith, Bone Series
+	J R R Tolkien, The Hobbit
+	J R R Tolkien, The Lord of the Rings
+	H G Wells, The War Of The Worlds
+	John Wyndham, The Chrysalids
+brian: douglas anderson, cust8
+	Laurie Halse Anderson, Speak
+	Ann Brashares, The Sisterhood of the Travelling Pants
+	Meg Cabot, The Princess Diaries
+	Cornelia Funke, Inkheart
+	William Golding, Lord of the Flies
+	Tite Kubo, Bleach (graphic novel)
+	C S Lewis, The Lion the Witch and the Wardrobe
+	Robert Ludlum, The Bourne Series
+	Jodi Picoult, My Sister's Keeper
+	Philip Pullman, The Golden Compass
+	Jeff Smith, Bone Series
+	H G Wells, The War Of The Worlds
+	John Wyndham, The Chrysalids
+brix: brian, douglas anderson
+	Dan Brown, The Da Vinci Code
+	William Goldman, The Princess Bride
+	Daniel Keyes, Flowers For Algernon
+	Christopher Paolini, Eragon
+	Gary Paulsen, Hatchet
+	J.K. Rowling, Harry Potter Series
+	Louis Sachar, Holes
+	J R R Tolkien, The Hobbit
+	J R R Tolkien, The Lord of the Rings
+cedric jones: cust8, shannon
+	Douglas Adams, The Hitchhiker's Guide To The Galaxy
+	Laurie Halse Anderson, Speak
+	Ann Brashares, The Sisterhood of the Travelling Pants
+	Meg Cabot, The Princess Diaries
+	Cornelia Funke, Inkheart
+	William Goldman, The Princess Bride
+	Masashi Kishimoto, Naruto
+	Tite Kubo, Bleach (graphic novel)
+	C S Lewis, The Lion the Witch and the Wardrobe
+	Stephenie Meyer, Twilight Series
+	Christopher Paolini, Eragon
+	Jodi Picoult, My Sister's Keeper
+	Philip Pullman, The Golden Compass
+	J.K. Rowling, Harry Potter Series
+	Jeff Smith, Bone Series
+	J R R Tolkien, The Hobbit
+	J R R Tolkien, The Lord of the Rings
+	John Wyndham, The Chrysalids
+chrispeh: leslie, joshua
+	Douglas Adams, The Hitchhiker's Guide To The Galaxy
+	Dan Brown, The Da Vinci Code
+	Robert Ludlum, The Bourne Series
+	Christopher Paolini, Eragon
+	J.K. Rowling, Harry Potter Series
+	Louis Sachar, Holes
+	J R R Tolkien, The Hobbit
+	J R R Tolkien, The Lord of the Rings
+claire: cust8, tiffany
+	Laurie Halse Anderson, Speak
+	William Goldman, The Princess Bride
+	Tite Kubo, Bleach (graphic novel)
+	Robert Ludlum, The Bourne Series
+	Jodi Picoult, My Sister's Keeper
+	Jeff Smith, Bone Series
+	Eric Walters, Shattered
+clipper: claire, mike
+	Richard Adams, Watership Down
+	Isaac Asimov, Foundation Series
+	Dan Brown, The Da Vinci Code
+	Orson Scott Card, Ender's Game
+	Tom Clancy, The Hunt for Red October
+	William Gibson, Neuromancer
+	Aldous Huxley, Brave New World
+	Daniel Keyes, Flowers For Algernon
+	Robert Ludlum, The Bourne Series
+	Garth Nix, Sabriel
+	George Orwell, Nineteen Eighty-Four (1984)
+	Christopher Paolini, Eragon
+	Gary Paulsen, Hatchet
+	Louis Sachar, Holes
+	Art Spiegelman, Maus: A Survivor's Tale
+crom: moose, andrew
+	Douglas Adams, The Hitchhiker's Guide To The Galaxy
+	Richard Adams, Watership Down
+	Maya Angelou, I Know Why the Caged Bird Sings
+	Isaac Asimov, Foundation Series
+	Orson Scott Card, Ender's Game
+	Tom Clancy, The Hunt for Red October
+	Cornelia Funke, Inkheart
+	William Gibson, Neuromancer
+	Guy Gavriel Kay, The Summer Tree
+	Daniel Keyes, Flowers For Algernon
+	C S Lewis, The Lion the Witch and the Wardrobe
+	Robert Ludlum, The Bourne Series
+	Yann Martel, Life of Pi
+	Gary Paulsen, Hatchet
+	Philip Pullman, The Golden Compass
+	J.K. Rowling, Harry Potter Series
+	Art Spiegelman, Maus: A Survivor's Tale
+	H G Wells, The War Of The Worlds
+cust1: francois, cust8
+	Laurie Halse Anderson, Speak
+	Ann Brashares, The Sisterhood of the Travelling Pants
+	Meg Cabot, The Princess Diaries
+	Cornelia Funke, Inkheart
+	William Golding, Lord of the Flies
+	Tite Kubo, Bleach (graphic novel)
+	Harper Lee, To Kill a Mockingbird
+	Robert Ludlum, The Bourne Series
+	Stephenie Meyer, Twilight Series
+	Gary Paulsen, Hatchet
+	Jodi Picoult, My Sister's Keeper
+	Louis Sachar, Holes
+	H G Wells, The War Of The Worlds
+	John Wyndham, The Chrysalids
+cust10: mike, andrew
+	Richard Adams, Watership Down
+	Isaac Asimov, Foundation Series
+	Tom Clancy, The Hunt for Red October
+	Robert Ludlum, The Bourne Series
+	Gary Paulsen, Hatchet
+	Philip Pullman, The Golden Compass
+	J R R Tolkien, The Hobbit
+	J R R Tolkien, The Lord of the Rings
+	H G Wells, The War Of The Worlds
+cust2: cust8, shannon
+	Laurie Halse Anderson, Speak
+	Ann Brashares, The Sisterhood of the Travelling Pants
+	Dan Brown, The Da Vinci Code
+	Meg Cabot, The Princess Diaries
+	Cornelia Funke, Inkheart
+	William Goldman, The Princess Bride
+	Masashi Kishimoto, Naruto
+	Tite Kubo, Bleach (graphic novel)
+	Harper Lee, To Kill a Mockingbird
+	Robert Ludlum, The Bourne Series
+	Stephenie Meyer, Twilight Series
+	Gary Paulsen, Hatchet
+	Jodi Picoult, My Sister's Keeper
+	Philip Pullman, The Golden Compass
+	Louis Sachar, Holes
+cust3: sidney, hidan
+	Tom Clancy, The Hunt for Red October
+	William Golding, Lord of the Flies
+	C S Lewis, The Lion the Witch and the Wardrobe
+	Yann Martel, Life of Pi
+	Shueisha, Shonen Jump Series
+	J R R Tolkien, The Lord of the Rings
+cust4: rosanna, nunu
+	Dan Brown, The Da Vinci Code
+	Meg Cabot, The Princess Diaries
+	Orson Scott Card, Ender's Game
+	Cornelia Funke, Inkheart
+	William Golding, Lord of the Flies
+	Harper Lee, To Kill a Mockingbird
+	C S Lewis, The Lion the Witch and the Wardrobe
+	Louis Sachar, Holes
+cust5: claire, mike
+	Douglas Adams, The Hitchhiker's Guide To The Galaxy
+	Isaac Asimov, Foundation Series
+	Ann Brashares, The Sisterhood of the Travelling Pants
+	Dan Brown, The Da Vinci Code
+	Orson Scott Card, Ender's Game
+	Tom Clancy, The Hunt for Red October
+	William Gibson, Neuromancer
+	William Golding, Lord of the Flies
+	Aldous Huxley, Brave New World
+	Robert Ludlum, The Bourne Series
+	Yann Martel, Life of Pi
+	Garth Nix, Sabriel
+	Christopher Paolini, Eragon
+cust6: cust8, keeled
+	William Goldman, The Princess Bride
+	Tite Kubo, Bleach (graphic novel)
+	Harper Lee, To Kill a Mockingbird
+	C S Lewis, The Lion the Witch and the Wardrobe
+	Robert Ludlum, The Bourne Series
+	Gary Paulsen, Hatchet
+	Jeff Smith, Bone Series
+	J R R Tolkien, The Hobbit
+	J R R Tolkien, The Lord of the Rings
+cust7: megan, shannon
+	Douglas Adams, The Hitchhiker's Guide To The Galaxy
+	Richard Adams, Watership Down
+	Dan Brown, The Da Vinci Code
+	Meg Cabot, The Princess Diaries
+	Cornelia Funke, Inkheart
+	William Goldman, The Princess Bride
+	Harper Lee, To Kill a Mockingbird
+	Jodi Picoult, My Sister's Keeper
+	Philip Pullman, The Golden Compass
+	Louis Sachar, Holes
+	Jeff Smith, Bone Series
+	J R R Tolkien, The Hobbit
+	J R R Tolkien, The Lord of the Rings
+cust8: shannon, roflol
+	Orson Scott Card, Ender's Game
+	Masashi Kishimoto, Naruto
+cust9: mike, cust10
+	Tom Clancy, The Hunt for Red October
+	William Gibson, Neuromancer
+	William Goldman, The Princess Bride
+	Aldous Huxley, Brave New World
+	C S Lewis, The Lion the Witch and the Wardrobe
+	Robert Ludlum, The Bourne Series
+	Yann Martel, Life of Pi
+	George Orwell, Nineteen Eighty-Four (1984)
+	Philip Pullman, The Golden Compass
+	J.K. Rowling, Harry Potter Series
+	Art Spiegelman, Maus: A Survivor's Tale
+	J R R Tolkien, The Hobbit
+david: james, strongbad
+	Douglas Adams, The Hitchhiker's Guide To The Galaxy
+	Isaac Asimov, Foundation Series
+	C S Lewis, The Lion the Witch and the Wardrobe
+	Yann Martel, Life of Pi
+	Gary Paulsen, Hatchet
+	Louis Sachar, Holes
+	Art Spiegelman, Maus: A Survivor's Tale
+	J R R Tolkien, The Hobbit
+dencellia: hidan, joe
+	Douglas Adams, The Hitchhiker's Guide To The Galaxy
+	Dan Brown, The Da Vinci Code
+	Orson Scott Card, Ender's Game
+	Tom Clancy, The Hunt for Red October
+	F. Scott Fitzgerald, The Great Gatsby
+	Alice Hoffman, Practical Magic
+	C S Lewis, The Lion the Witch and the Wardrobe
+	Yann Martel, Life of Pi
+	George Orwell, Nineteen Eighty-Four (1984)
+	Christopher Paolini, Eragon
+	Philip Pullman, The Golden Compass
+	Louis Sachar, Holes
+don wang: mclean, cust8
+	Douglas Adams, The Hitchhiker's Guide To The Galaxy
+	Laurie Halse Anderson, Speak
+	Ann Brashares, The Sisterhood of the Travelling Pants
+	Dan Brown, The Da Vinci Code
+	Meg Cabot, The Princess Diaries
+	Cornelia Funke, Inkheart
+	William Golding, Lord of the Flies
+	William Goldman, The Princess Bride
+	Aldous Huxley, Brave New World
+	Tite Kubo, Bleach (graphic novel)
+	C S Lewis, The Lion the Witch and the Wardrobe
+	Robert Ludlum, The Bourne Series
+	Stephenie Meyer, Twilight Series
+	George Orwell, Nineteen Eighty-Four (1984)
+	Gary Paulsen, Hatchet
+	Jodi Picoult, My Sister's Keeper
+	Philip Pullman, The Golden Compass
+	Jeff Smith, Bone Series
+	J R R Tolkien, The Lord of the Rings
+	H G Wells, The War Of The Worlds
+	John Wyndham, The Chrysalids
+douglas anderson: brian, cust8
+	Laurie Halse Anderson, Speak
+	Ann Brashares, The Sisterhood of the Travelling Pants
+	Meg Cabot, The Princess Diaries
+	Cornelia Funke, Inkheart
+	William Golding, Lord of the Flies
+	Tite Kubo, Bleach (graphic novel)
+	C S Lewis, The Lion the Witch and the Wardrobe
+	Robert Ludlum, The Bourne Series
+	Jodi Picoult, My Sister's Keeper
+	Philip Pullman, The Golden Compass
+	Jeff Smith, Bone Series
+	H G Wells, The War Of The Worlds
+	John Wyndham, The Chrysalids
+dude: cust8, ben
+	Douglas Adams, The Hitchhiker's Guide To The Galaxy
+	Laurie Halse Anderson, Speak
+	Ann Brashares, The Sisterhood of the Travelling Pants
+	Dan Brown, The Da Vinci Code
+	Meg Cabot, The Princess Diaries
+	Orson Scott Card, Ender's Game
+	John Flanagan, Ranger's Apprentice Series
+	William Golding, Lord of the Flies
+	William Goldman, The Princess Bride
+	Will Hobbs, Far North
+	Tite Kubo, Bleach (graphic novel)
+	C S Lewis, The Lion the Witch and the Wardrobe
+	Robert Ludlum, The Bourne Series
+	Stephenie Meyer, Twilight Series
+	Christopher Paolini, Eragon
+	Gary Paulsen, Hatchet
+	Jodi Picoult, My Sister's Keeper
+	Philip Pullman, The Golden Compass
+	Neil Shusterman, The Shadow Club
+	J R R Tolkien, The Lord of the Rings
+	Eric Walters, Shattered
+	H G Wells, The War Of The Worlds
+	Patricia C. Wrede, Dealing with Dragons
+	John Wyndham, The Chrysalids
+ella: shannon, roflol
+	Douglas Adams, The Hitchhiker's Guide To The Galaxy
+	Dan Brown, The Da Vinci Code
+	Masashi Kishimoto, Naruto
+	Robert Ludlum, The Bourne Series
+	Gary Paulsen, Hatchet
+	Jodi Picoult, My Sister's Keeper
+	J.K. Rowling, Harry Potter Series
+	Jeff Smith, Bone Series
+	J R R Tolkien, The Hobbit
+	J R R Tolkien, The Lord of the Rings
+	H G Wells, The War Of The Worlds
+ender: megan, mike
+	Richard Adams, Watership Down
+	Tom Clancy, The Hunt for Red October
+	Cornelia Funke, Inkheart
+	William Goldman, The Princess Bride
+	Aldous Huxley, Brave New World
+	Daniel Keyes, Flowers For Algernon
+	Masashi Kishimoto, Naruto
+	Harper Lee, To Kill a Mockingbird
+	C S Lewis, The Lion the Witch and the Wardrobe
+	Yann Martel, Life of Pi
+	Stephenie Meyer, Twilight Series
+	George Orwell, Nineteen Eighty-Four (1984)
+	Christopher Paolini, Eragon
+	Philip Pullman, The Golden Compass
+	J.K. Rowling, Harry Potter Series
+	Louis Sachar, Holes
+	Art Spiegelman, Maus: A Survivor's Tale
+francois: cust1, cust8
+	Laurie Halse Anderson, Speak
+	Ann Brashares, The Sisterhood of the Travelling Pants
+	Meg Cabot, The Princess Diaries
+	Cornelia Funke, Inkheart
+	William Golding, Lord of the Flies
+	Tite Kubo, Bleach (graphic novel)
+	Harper Lee, To Kill a Mockingbird
+	Robert Ludlum, The Bourne Series
+	Stephenie Meyer, Twilight Series
+	Gary Paulsen, Hatchet
+	Jodi Picoult, My Sister's Keeper
+	Louis Sachar, Holes
+	H G Wells, The War Of The Worlds
+	John Wyndham, The Chrysalids
+hamza ali: nathan, mike williams
+	Douglas Adams, The Hitchhiker's Guide To The Galaxy
+	Mitch Albom, The Five People You Meet in Heaven
+	Isaac Asimov, Foundation Series
+	Orson Scott Card, Ender's Game
+	Suzanne Collins, The Hunger Games
+	Gary Paulsen, Hatchet
+harry potter: andrew, parseclaws
+	Douglas Adams, The Hitchhiker's Guide To The Galaxy
+	Richard Adams, Watership Down
+	Mitch Albom, The Five People You Meet in Heaven
+	Maya Angelou, I Know Why the Caged Bird Sings
+	Isaac Asimov, Foundation Series
+	Tom Clancy, The Hunt for Red October
+	F. Scott Fitzgerald, The Great Gatsby
+	William Gibson, Neuromancer
+	Aldous Huxley, Brave New World
+	Daniel Keyes, Flowers For Algernon
+	Harper Lee, To Kill a Mockingbird
+	C S Lewis, The Lion the Witch and the Wardrobe
+	Robert Ludlum, The Bourne Series
+	Yann Martel, Life of Pi
+	Gary Paulsen, Hatchet
+	Philip Pullman, The Golden Compass
+	Louis Sachar, Holes
+	Jeff Smith, Bone Series
+	Art Spiegelman, Maus: A Survivor's Tale
+	J R R Tolkien, The Hobbit
+	H G Wells, The War Of The Worlds
+hidan: sidney, cust8
+	Douglas Adams, The Hitchhiker's Guide To The Galaxy
+	Laurie Halse Anderson, Speak
+	Ann Brashares, The Sisterhood of the Travelling Pants
+	Dan Brown, The Da Vinci Code
+	Meg Cabot, The Princess Diaries
+	Cornelia Funke, Inkheart
+	William Golding, Lord of the Flies
+	William Goldman, The Princess Bride
+	Harper Lee, To Kill a Mockingbird
+	Robert Ludlum, The Bourne Series
+	Stephenie Meyer, Twilight Series
+	Gary Paulsen, Hatchet
+	Jodi Picoult, My Sister's Keeper
+	Philip Pullman, The Golden Compass
+	Jeff Smith, Bone Series
+	H G Wells, The War Of The Worlds
+	John Wyndham, The Chrysalids
+hideo: shannon, roflol
+	Douglas Adams, The Hitchhiker's Guide To The Galaxy
+	Dan Brown, The Da Vinci Code
+	Meg Cabot, The Princess Diaries
+	Orson Scott Card, Ender's Game
+	Cornelia Funke, Inkheart
+	William Goldman, The Princess Bride
+	Masashi Kishimoto, Naruto
+	Robert Ludlum, The Bourne Series
+	Stephenie Meyer, Twilight Series
+	Gary Paulsen, Hatchet
+	Jodi Picoult, My Sister's Keeper
+	Philip Pullman, The Golden Compass
+	Jeff Smith, Bone Series
+	H G Wells, The War Of The Worlds
+huxil: shannon, megan
+	Douglas Adams, The Hitchhiker's Guide To The Galaxy
+	Richard Adams, Watership Down
+	Dan Brown, The Da Vinci Code
+	Meg Cabot, The Princess Diaries
+	Orson Scott Card, Ender's Game
+	Cornelia Funke, Inkheart
+	William Goldman, The Princess Bride
+	Masashi Kishimoto, Naruto
+	Harper Lee, To Kill a Mockingbird
+	Stephenie Meyer, Twilight Series
+	Christopher Paolini, Eragon
+	Jodi Picoult, My Sister's Keeper
+	Philip Pullman, The Golden Compass
+	J.K. Rowling, Harry Potter Series
+	Louis Sachar, Holes
+	Jeff Smith, Bone Series
+	J R R Tolkien, The Lord of the Rings
+i. ned: ben, claire
+	Douglas Adams, The Hitchhiker's Guide To The Galaxy
+	Richard Adams, Watership Down
+	Ann Brashares, The Sisterhood of the Travelling Pants
+	Orson Scott Card, Ender's Game
+	John Flanagan, Ranger's Apprentice Series
+	Cornelia Funke, Inkheart
+	Will Hobbs, Far North
+	Daniel Keyes, Flowers For Algernon
+	Garth Nix, Sabriel
+	Louis Sachar, Holes
+	Neil Shusterman, The Shadow Club
+	Jeff Smith, Bone Series
+	J R R Tolkien, The Hobbit
+	J R R Tolkien, The Lord of the Rings
+	Eric Walters, Shattered
+	H G Wells, The War Of The Worlds
+	Patricia C. Wrede, Dealing with Dragons
+iren: shannon, hidan
+	Douglas Adams, The Hitchhiker's Guide To The Galaxy
+	Dan Brown, The Da Vinci Code
+	Meg Cabot, The Princess Diaries
+	Tom Clancy, The Hunt for Red October
+	William Goldman, The Princess Bride
+	Tite Kubo, Bleach (graphic novel)
+	Robert Ludlum, The Bourne Series
+	Yann Martel, Life of Pi
+	Jodi Picoult, My Sister's Keeper
+	Philip Pullman, The Golden Compass
+	Jeff Smith, Bone Series
+j-rok: leslie, narwhals
+	Dan Brown, The Da Vinci Code
+	Orson Scott Card, Ender's Game
+	William Gibson, Neuromancer
+	Masashi Kishimoto, Naruto
+	Harper Lee, To Kill a Mockingbird
+	C S Lewis, The Lion the Witch and the Wardrobe
+	Robert Ludlum, The Bourne Series
+	Garth Nix, Sabriel
+	Christopher Paolini, Eragon
+	Louis Sachar, Holes
+	J R R Tolkien, The Hobbit
+	J R R Tolkien, The Lord of the Rings
+jaluka: parseclaws, mclean
+	Douglas Adams, The Hitchhiker's Guide To The Galaxy
+	Mitch Albom, The Five People You Meet in Heaven
+	Orson Scott Card, Ender's Game
+	F. Scott Fitzgerald, The Great Gatsby
+	Cornelia Funke, Inkheart
+	William Golding, Lord of the Flies
+	Daniel Keyes, Flowers For Algernon
+	Yann Martel, Life of Pi
+	Christopher Paolini, Eragon
+	J.K. Rowling, Harry Potter Series
+	Louis Sachar, Holes
+	Jeff Smith, Bone Series
+	J R R Tolkien, The Hobbit
+	John Wyndham, The Chrysalids
+james: strongbad, tiffany
+	Dan Brown, The Da Vinci Code
+	F. Scott Fitzgerald, The Great Gatsby
+	Cornelia Funke, Inkheart
+	Jodi Picoult, My Sister's Keeper
+	Art Spiegelman, Maus: A Survivor's Tale
+	Eric Walters, Shattered
+jeremy: shannon, roflol
+	Douglas Adams, The Hitchhiker's Guide To The Galaxy
+	Dan Brown, The Da Vinci Code
+	Orson Scott Card, Ender's Game
+	Cornelia Funke, Inkheart
+	William Goldman, The Princess Bride
+	Masashi Kishimoto, Naruto
+	Robert Ludlum, The Bourne Series
+	Stephenie Meyer, Twilight Series
+	Christopher Paolini, Eragon
+	Gary Paulsen, Hatchet
+	Jodi Picoult, My Sister's Keeper
+	J.K. Rowling, Harry Potter Series
+	Louis Sachar, Holes
+	Jeff Smith, Bone Series
+	J R R Tolkien, The Hobbit
+	J R R Tolkien, The Lord of the Rings
+	H G Wells, The War Of The Worlds
+jim c: mike, andrew
+	Maya Angelou, I Know Why the Caged Bird Sings
+	Orson Scott Card, Ender's Game
+	Tom Clancy, The Hunt for Red October
+	William Gibson, Neuromancer
+	William Golding, Lord of the Flies
+	Harper Lee, To Kill a Mockingbird
+	Robert Ludlum, The Bourne Series
+	George Orwell, Nineteen Eighty-Four (1984)
+	Gary Paulsen, Hatchet
+	Philip Pullman, The Golden Compass
+	J.K. Rowling, Harry Potter Series
+	Art Spiegelman, Maus: A Survivor's Tale
+	H G Wells, The War Of The Worlds
+joe: megan, moose
+	Richard Adams, Watership Down
+	Isaac Asimov, Foundation Series
+	Tom Clancy, The Hunt for Red October
+	William Goldman, The Princess Bride
+	Guy Gavriel Kay, The Summer Tree
+	Louis Sachar, Holes
+	H G Wells, The War Of The Worlds
+joshua: albus dumbledore, tiffany
+	Douglas Adams, The Hitchhiker's Guide To The Galaxy
+	Dan Brown, The Da Vinci Code
+	F. Scott Fitzgerald, The Great Gatsby
+	Cornelia Funke, Inkheart
+	William Goldman, The Princess Bride
+	C S Lewis, The Lion the Witch and the Wardrobe
+	Gary Paulsen, Hatchet
+	Jodi Picoult, My Sister's Keeper
+	Philip Pullman, The Golden Compass
+	Louis Sachar, Holes
+	J R R Tolkien, The Hobbit
+	J R R Tolkien, The Lord of the Rings
+	Eric Walters, Shattered
+	H G Wells, The War Of The Worlds
+	John Wyndham, The Chrysalids
+keeled: cust8, shannon
+	Douglas Adams, The Hitchhiker's Guide To The Galaxy
+	William Goldman, The Princess Bride
+	Masashi Kishimoto, Naruto
+	Tite Kubo, Bleach (graphic novel)
+	C S Lewis, The Lion the Witch and the Wardrobe
+	Robert Ludlum, The Bourne Series
+	Gary Paulsen, Hatchet
+	Jeff Smith, Bone Series
+	H G Wells, The War Of The Worlds
+	John Wyndham, The Chrysalids
+leah: iren, hidan
+	Tom Clancy, The Hunt for Red October
+	Tite Kubo, Bleach (graphic novel)
+	C S Lewis, The Lion the Witch and the Wardrobe
+	Yann Martel, Life of Pi
+	Christopher Paolini, Eragon
+	J.K. Rowling, Harry Potter Series
+	Louis Sachar, Holes
+	J R R Tolkien, The Hobbit
+	J R R Tolkien, The Lord of the Rings
+	H G Wells, The War Of The Worlds
+leslie: shannon, roflol
+	Meg Cabot, The Princess Diaries
+	Orson Scott Card, Ender's Game
+	Cornelia Funke, Inkheart
+	William Goldman, The Princess Bride
+	Masashi Kishimoto, Naruto
+	C S Lewis, The Lion the Witch and the Wardrobe
+	Stephenie Meyer, Twilight Series
+	Gary Paulsen, Hatchet
+	Jodi Picoult, My Sister's Keeper
+	Philip Pullman, The Golden Compass
+	Jeff Smith, Bone Series
+	H G Wells, The War Of The Worlds
+ma: hamza ali, nathan
+	Cornelia Funke, Inkheart
+	James Gurney, Dinotopia: A Land Apart from Time
+	Stephenie Meyer, Twilight Series
+	Jodi Picoult, My Sister's Keeper
+	Louis Sachar, Holes
+mark: joe, megan
+	Cornelia Funke, Inkheart
+	William Goldman, The Princess Bride
+	Alice Hoffman, Practical Magic
+	Robert Ludlum, The Bourne Series
+	Stephenie Meyer, Twilight Series
+	George Orwell, Nineteen Eighty-Four (1984)
+	Philip Pullman, The Golden Compass
+	J.K. Rowling, Harry Potter Series
+	Louis Sachar, Holes
+	Shueisha, Shonen Jump Series
+	J R R Tolkien, The Hobbit
+	J R R Tolkien, The Lord of the Rings
+	H G Wells, The War Of The Worlds
+martin: clipper, reuven
+	Libba Bray, A Great and Terrible Beauty
+	Daniel Keyes, Flowers For Algernon
+	C S Lewis, The Lion the Witch and the Wardrobe
+	Yann Martel, Life of Pi
+	Gary Paulsen, Hatchet
+	Philip Pullman, The Golden Compass
+	John Wyndham, The Chrysalids
+matt c: ben, megan
+	Douglas Adams, The Hitchhiker's Guide To The Galaxy
+	Cornelia Funke, Inkheart
+	William Goldman, The Princess Bride
+	Masashi Kishimoto, Naruto
+	Stephenie Meyer, Twilight Series
+	Gary Paulsen, Hatchet
+	Philip Pullman, The Golden Compass
+	Jeff Smith, Bone Series
+	H G Wells, The War Of The Worlds
+	Patricia C. Wrede, Dealing with Dragons
+mclean: cust8, tiffany
+	Douglas Adams, The Hitchhiker's Guide To The Galaxy
+	Laurie Halse Anderson, Speak
+	Ann Brashares, The Sisterhood of the Travelling Pants
+	Meg Cabot, The Princess Diaries
+	F. Scott Fitzgerald, The Great Gatsby
+	William Golding, Lord of the Flies
+	William Goldman, The Princess Bride
+	Tite Kubo, Bleach (graphic novel)
+	C S Lewis, The Lion the Witch and the Wardrobe
+	Robert Ludlum, The Bourne Series
+	Stephenie Meyer, Twilight Series
+	Gary Paulsen, Hatchet
+	Jodi Picoult, My Sister's Keeper
+	Philip Pullman, The Golden Compass
+	Jeff Smith, Bone Series
+	J R R Tolkien, The Lord of the Rings
+	Eric Walters, Shattered
+mclovin: subria, narwhals
+	Douglas Adams, The Hitchhiker's Guide To The Galaxy
+	Orson Scott Card, Ender's Game
+	Cornelia Funke, Inkheart
+	William Gibson, Neuromancer
+	Masashi Kishimoto, Naruto
+	Robert Ludlum, The Bourne Series
+	Garth Nix, Sabriel
+	Christopher Paolini, Eragon
+	Gary Paulsen, Hatchet
+	Louis Sachar, Holes
+	J R R Tolkien, The Hobbit
+megan: shannon, roflol
+	Meg Cabot, The Princess Diaries
+	Gary Paulsen, Hatchet
+	Jodi Picoult, My Sister's Keeper
+	Jeff Smith, Bone Series
+mike: andrew, moose
+	Richard Adams, Watership Down
+	Maya Angelou, I Know Why the Caged Bird Sings
+	F. Scott Fitzgerald, The Great Gatsby
+	Cornelia Funke, Inkheart
+	William Golding, Lord of the Flies
+	Guy Gavriel Kay, The Summer Tree
+	Gary Paulsen, Hatchet
+	H G Wells, The War Of The Worlds
+mike williams: cust6, cust8
+	Laurie Halse Anderson, Speak
+	Jay Asher, Thirteen Reasons Why
+	Ann Brashares, The Sisterhood of the Travelling Pants
+	Libba Bray, A Great and Terrible Beauty
+	Meg Cabot, The Princess Diaries
+	Tom Clancy, The Hunt for Red October
+	William Goldman, The Princess Bride
+	Tite Kubo, Bleach (graphic novel)
+	Robert Ludlum, The Bourne Series
+	Garth Nix, Sabriel
+	Jodi Picoult, My Sister's Keeper
+	Jeff Smith, Bone Series
+	H G Wells, The War Of The Worlds
+	John Wyndham, The Chrysalids
+moose: andrew, megan
+	Maya Angelou, I Know Why the Caged Bird Sings
+	William Goldman, The Princess Bride
+	Daniel Keyes, Flowers For Algernon
+	Masashi Kishimoto, Naruto
+	Robert Ludlum, The Bourne Series
+	Yann Martel, Life of Pi
+	Stephenie Meyer, Twilight Series
+	Gary Paulsen, Hatchet
+	Philip Pullman, The Golden Compass
+	Louis Sachar, Holes
+	Art Spiegelman, Maus: A Survivor's Tale
+narwhals: roflol, leslie
+	Dan Brown, The Da Vinci Code
+	Meg Cabot, The Princess Diaries
+	Cornelia Funke, Inkheart
+	William Goldman, The Princess Bride
+	Harper Lee, To Kill a Mockingbird
+	Robert Ludlum, The Bourne Series
+	Stephenie Meyer, Twilight Series
+	Gary Paulsen, Hatchet
+	Jodi Picoult, My Sister's Keeper
+	Philip Pullman, The Golden Compass
+nathan: hamza ali, mike williams
+	Douglas Adams, The Hitchhiker's Guide To The Galaxy
+	Mitch Albom, The Five People You Meet in Heaven
+	Isaac Asimov, Foundation Series
+	Orson Scott Card, Ender's Game
+	Suzanne Collins, The Hunger Games
+	Gary Paulsen, Hatchet
+nunu: cust8, megan
+	Douglas Adams, The Hitchhiker's Guide To The Galaxy
+	Richard Adams, Watership Down
+	Laurie Halse Anderson, Speak
+	Dan Brown, The Da Vinci Code
+	Meg Cabot, The Princess Diaries
+	Orson Scott Card, Ender's Game
+	William Goldman, The Princess Bride
+	Masashi Kishimoto, Naruto
+	Tite Kubo, Bleach (graphic novel)
+	C S Lewis, The Lion the Witch and the Wardrobe
+	Robert Ludlum, The Bourne Series
+	Christopher Paolini, Eragon
+	Gary Paulsen, Hatchet
+	Jodi Picoult, My Sister's Keeper
+	Jeff Smith, Bone Series
+	J R R Tolkien, The Hobbit
+	J R R Tolkien, The Lord of the Rings
+	H G Wells, The War Of The Worlds
+	John Wyndham, The Chrysalids
+ocelot: andrew, mike
+	Maya Angelou, I Know Why the Caged Bird Sings
+	Isaac Asimov, Foundation Series
+	Tom Clancy, The Hunt for Red October
+	Robert Ludlum, The Bourne Series
+	Gary Paulsen, Hatchet
+	Art Spiegelman, Maus: A Survivor's Tale
+	J R R Tolkien, The Lord of the Rings
+pablo sanchez: ben, cust8
+	Douglas Adams, The Hitchhiker's Guide To The Galaxy
+	Laurie Halse Anderson, Speak
+	Ann Brashares, The Sisterhood of the Travelling Pants
+	Dan Brown, The Da Vinci Code
+	Meg Cabot, The Princess Diaries
+	Orson Scott Card, Ender's Game
+	John Flanagan, Ranger's Apprentice Series
+	Cornelia Funke, Inkheart
+	William Golding, Lord of the Flies
+	William Goldman, The Princess Bride
+	Will Hobbs, Far North
+	Tite Kubo, Bleach (graphic novel)
+	Harper Lee, To Kill a Mockingbird
+	C S Lewis, The Lion the Witch and the Wardrobe
+	Robert Ludlum, The Bourne Series
+	Stephenie Meyer, Twilight Series
+	Gary Paulsen, Hatchet
+	Jodi Picoult, My Sister's Keeper
+	Philip Pullman, The Golden Compass
+	J.K. Rowling, Harry Potter Series
+	Neil Shusterman, The Shadow Club
+	J R R Tolkien, The Hobbit
+	J R R Tolkien, The Lord of the Rings
+	Eric Walters, Shattered
+	H G Wells, The War Of The Worlds
+	Patricia C. Wrede, Dealing with Dragons
+	John Wyndham, The Chrysalids
+parseclaws: cust10, moose
+	Isaac Asimov, Foundation Series
+	Tom Clancy, The Hunt for Red October
+	Cornelia Funke, Inkheart
+	William Gibson, Neuromancer
+	William Goldman, The Princess Bride
+	Guy Gavriel Kay, The Summer Tree
+	Yann Martel, Life of Pi
+	Art Spiegelman, Maus: A Survivor's Tale
+	J R R Tolkien, The Hobbit
+	J R R Tolkien, The Lord of the Rings
+	H G Wells, The War Of The Worlds
+priscilla: cust10, mike
+	William Gibson, Neuromancer
+	William Goldman, The Princess Bride
+	Daniel Keyes, Flowers For Algernon
+	Harper Lee, To Kill a Mockingbird
+	Robert Ludlum, The Bourne Series
+	Philip Pullman, The Golden Compass
+	J.K. Rowling, Harry Potter Series
+	Art Spiegelman, Maus: A Survivor's Tale
+reuven: ben, tiffany
+	F. Scott Fitzgerald, The Great Gatsby
+	William Goldman, The Princess Bride
+	Will Hobbs, Far North
+	Jodi Picoult, My Sister's Keeper
+	Neil Shusterman, The Shadow Club
+	Jeff Smith, Bone Series
+roflol: shannon, cust8
+	Laurie Halse Anderson, Speak
+	Ann Brashares, The Sisterhood of the Travelling Pants
+	William Golding, Lord of the Flies
+	Tite Kubo, Bleach (graphic novel)
+	Harper Lee, To Kill a Mockingbird
+	Jeff Smith, Bone Series
+	H G Wells, The War Of The Worlds
+	John Wyndham, The Chrysalids
+rosanna: cust8, shannon
+	Douglas Adams, The Hitchhiker's Guide To The Galaxy
+	Laurie Halse Anderson, Speak
+	Ann Brashares, The Sisterhood of the Travelling Pants
+	Cornelia Funke, Inkheart
+	William Goldman, The Princess Bride
+	Tite Kubo, Bleach (graphic novel)
+	Robert Ludlum, The Bourne Series
+	Christopher Paolini, Eragon
+	Gary Paulsen, Hatchet
+	Jodi Picoult, My Sister's Keeper
+	Philip Pullman, The Golden Compass
+	Jeff Smith, Bone Series
+	J R R Tolkien, The Lord of the Rings
+	H G Wells, The War Of The Worlds
+	John Wyndham, The Chrysalids
+rudy a: cust8, mike williams
+	Douglas Adams, The Hitchhiker's Guide To The Galaxy
+	Mitch Albom, The Five People You Meet in Heaven
+	Laurie Halse Anderson, Speak
+	Isaac Asimov, Foundation Series
+	Ann Brashares, The Sisterhood of the Travelling Pants
+	Dan Brown, The Da Vinci Code
+	Meg Cabot, The Princess Diaries
+	Orson Scott Card, Ender's Game
+	Suzanne Collins, The Hunger Games
+	Cornelia Funke, Inkheart
+	William Golding, Lord of the Flies
+	William Goldman, The Princess Bride
+	Tite Kubo, Bleach (graphic novel)
+	C S Lewis, The Lion the Witch and the Wardrobe
+	Robert Ludlum, The Bourne Series
+	Stephenie Meyer, Twilight Series
+	Christopher Paolini, Eragon
+	Jodi Picoult, My Sister's Keeper
+	Philip Pullman, The Golden Compass
+	Louis Sachar, Holes
+	Jeff Smith, Bone Series
+	J R R Tolkien, The Hobbit
+	J R R Tolkien, The Lord of the Rings
+	H G Wells, The War Of The Worlds
+	John Wyndham, The Chrysalids
+rudy ann: roflol, ella
+	Douglas Adams, The Hitchhiker's Guide To The Galaxy
+	Ann Brashares, The Sisterhood of the Travelling Pants
+	Dan Brown, The Da Vinci Code
+	Meg Cabot, The Princess Diaries
+	Orson Scott Card, Ender's Game
+	Cornelia Funke, Inkheart
+	William Goldman, The Princess Bride
+	Masashi Kishimoto, Naruto
+	C S Lewis, The Lion the Witch and the Wardrobe
+	Robert Ludlum, The Bourne Series
+	Stephenie Meyer, Twilight Series
+	Christopher Paolini, Eragon
+	Jodi Picoult, My Sister's Keeper
+	Philip Pullman, The Golden Compass
+	J R R Tolkien, The Hobbit
+	J R R Tolkien, The Lord of the Rings
+sage32: tiffany, mclean
+	Douglas Adams, The Hitchhiker's Guide To The Galaxy
+	F. Scott Fitzgerald, The Great Gatsby
+	Cornelia Funke, Inkheart
+	C S Lewis, The Lion the Witch and the Wardrobe
+	Yann Martel, Life of Pi
+	George Orwell, Nineteen Eighty-Four (1984)
+	Christopher Paolini, Eragon
+	Jodi Picoult, My Sister's Keeper
+	Philip Pullman, The Golden Compass
+	J R R Tolkien, The Hobbit
+	J R R Tolkien, The Lord of the Rings
+	Eric Walters, Shattered
+	H G Wells, The War Of The Worlds
+sam: leslie, shannon
+	Douglas Adams, The Hitchhiker's Guide To The Galaxy
+	Meg Cabot, The Princess Diaries
+	Cornelia Funke, Inkheart
+	William Goldman, The Princess Bride
+	Masashi Kishimoto, Naruto
+	C S Lewis, The Lion the Witch and the Wardrobe
+	Robert Ludlum, The Bourne Series
+	Stephenie Meyer, Twilight Series
+	Christopher Paolini, Eragon
+	Jodi Picoult, My Sister's Keeper
+	Philip Pullman, The Golden Compass
+	J.K. Rowling, Harry Potter Series
+	Louis Sachar, Holes
+	Jeff Smith, Bone Series
+	J R R Tolkien, The Hobbit
+	J R R Tolkien, The Lord of the Rings
+	H G Wells, The War Of The Worlds
+sanity: cust8, sidney
+	Douglas Adams, The Hitchhiker's Guide To The Galaxy
+	Laurie Halse Anderson, Speak
+	Ann Brashares, The Sisterhood of the Travelling Pants
+	Dan Brown, The Da Vinci Code
+	Meg Cabot, The Princess Diaries
+	Cornelia Funke, Inkheart
+	William Goldman, The Princess Bride
+	Masashi Kishimoto, Naruto
+	Harper Lee, To Kill a Mockingbird
+	Robert Ludlum, The Bourne Series
+	Stephenie Meyer, Twilight Series
+	Christopher Paolini, Eragon
+	Gary Paulsen, Hatchet
+	Jodi Picoult, My Sister's Keeper
+	Philip Pullman, The Golden Compass
+	Louis Sachar, Holes
+	Shueisha, Shonen Jump Series
+	Jeff Smith, Bone Series
+	J R R Tolkien, The Hobbit
+	J R R Tolkien, The Lord of the Rings
+	H G Wells, The War Of The Worlds
+	John Wyndham, The Chrysalids
+scream: joshua, albus dumbledore
+	Harper Lee, To Kill a Mockingbird
+shannon: roflol, cust8
+	Laurie Halse Anderson, Speak
+	Ann Brashares, The Sisterhood of the Travelling Pants
+	Orson Scott Card, Ender's Game
+	William Golding, Lord of the Flies
+	Tite Kubo, Bleach (graphic novel)
+	Harper Lee, To Kill a Mockingbird
+	Gary Paulsen, Hatchet
+	John Wyndham, The Chrysalids
+sidney: cust8, hidan
+	Douglas Adams, The Hitchhiker's Guide To The Galaxy
+	Laurie Halse Anderson, Speak
+	Ann Brashares, The Sisterhood of the Travelling Pants
+	Dan Brown, The Da Vinci Code
+	Meg Cabot, The Princess Diaries
+	Tom Clancy, The Hunt for Red October
+	William Goldman, The Princess Bride
+	Harper Lee, To Kill a Mockingbird
+	Robert Ludlum, The Bourne Series
+	Stephenie Meyer, Twilight Series
+	Jodi Picoult, My Sister's Keeper
+	Philip Pullman, The Golden Compass
+	Louis Sachar, Holes
+	H G Wells, The War Of The Worlds
+	John Wyndham, The Chrysalids
+snoosh: tiffany, roflol
+	Douglas Adams, The Hitchhiker's Guide To The Galaxy
+	Dan Brown, The Da Vinci Code
+	Meg Cabot, The Princess Diaries
+	Orson Scott Card, Ender's Game
+	F. Scott Fitzgerald, The Great Gatsby
+	Cornelia Funke, Inkheart
+	William Goldman, The Princess Bride
+	Masashi Kishimoto, Naruto
+	Harper Lee, To Kill a Mockingbird
+	Robert Ludlum, The Bourne Series
+	Stephenie Meyer, Twilight Series
+	Jodi Picoult, My Sister's Keeper
+	Eric Walters, Shattered
+	H G Wells, The War Of The Worlds
+	John Wyndham, The Chrysalids
+strongbad: james, tiffany
+	Isaac Asimov, Foundation Series
+	Dan Brown, The Da Vinci Code
+	F. Scott Fitzgerald, The Great Gatsby
+	Cornelia Funke, Inkheart
+	William Goldman, The Princess Bride
+	Harper Lee, To Kill a Mockingbird
+	Jodi Picoult, My Sister's Keeper
+	Eric Walters, Shattered
+	H G Wells, The War Of The Worlds
+subria: cust8, roflol
+	Douglas Adams, The Hitchhiker's Guide To The Galaxy
+	Laurie Halse Anderson, Speak
+	Ann Brashares, The Sisterhood of the Travelling Pants
+	Meg Cabot, The Princess Diaries
+	Orson Scott Card, Ender's Game
+	Masashi Kishimoto, Naruto
+	Tite Kubo, Bleach (graphic novel)
+	Stephenie Meyer, Twilight Series
+	J.K. Rowling, Harry Potter Series
+	Louis Sachar, Holes
+	Jeff Smith, Bone Series
+	H G Wells, The War Of The Worlds
+	John Wyndham, The Chrysalids
+tiffany: cust8, claire
+	Richard Adams, Watership Down
+	Daniel Keyes, Flowers For Algernon
+	Robert Ludlum, The Bourne Series
+	Garth Nix, Sabriel
+tony: tiffany, crom
+	C S Lewis, The Lion the Witch and the Wardrobe
+	George Orwell, Nineteen Eighty-Four (1984)
+	Gary Paulsen, Hatchet
+	Philip Pullman, The Golden Compass
+	J.K. Rowling, Harry Potter Series
+yjam: cust8, shannon
+	Douglas Adams, The Hitchhiker's Guide To The Galaxy
+	Laurie Halse Anderson, Speak
+	Ann Brashares, The Sisterhood of the Travelling Pants
+	Dan Brown, The Da Vinci Code
+	Meg Cabot, The Princess Diaries
+	Cornelia Funke, Inkheart
+	William Golding, Lord of the Flies
+	William Goldman, The Princess Bride
+	Masashi Kishimoto, Naruto
+	Tite Kubo, Bleach (graphic novel)
+	Harper Lee, To Kill a Mockingbird
+	Robert Ludlum, The Bourne Series
+	Gary Paulsen, Hatchet
+	Jodi Picoult, My Sister's Keeper
+	Philip Pullman, The Golden Compass
+	J.K. Rowling, Harry Potter Series
+	Jeff Smith, Bone Series
+	John Wyndham, The Chrysalids
+zachary: hidan, shannon
+	Douglas Adams, The Hitchhiker's Guide To The Galaxy
+	Dan Brown, The Da Vinci Code
+	Meg Cabot, The Princess Diaries
+	Tom Clancy, The Hunt for Red October
+	William Goldman, The Princess Bride
+	Tite Kubo, Bleach (graphic novel)
+	C S Lewis, The Lion the Witch and the Wardrobe
+	Robert Ludlum, The Bourne Series
+	Yann Martel, Life of Pi
+	Stephenie Meyer, Twilight Series
+	Jodi Picoult, My Sister's Keeper
+	J.K. Rowling, Harry Potter Series
+	Jeff Smith, Bone Series
+	J R R Tolkien, The Lord of the Rings
+	H G Wells, The War Of The Worlds
+zax: cust8, shannon
+	Douglas Adams, The Hitchhiker's Guide To The Galaxy
+	Laurie Halse Anderson, Speak
+	Ann Brashares, The Sisterhood of the Travelling Pants
+	Dan Brown, The Da Vinci Code
+	Meg Cabot, The Princess Diaries
+	Cornelia Funke, Inkheart
+	William Golding, Lord of the Flies
+	Masashi Kishimoto, Naruto
+	Tite Kubo, Bleach (graphic novel)
+	Harper Lee, To Kill a Mockingbird
+	Robert Ludlum, The Bourne Series
+	Stephenie Meyer, Twilight Series
+	Gary Paulsen, Hatchet
+	Jodi Picoult, My Sister's Keeper
+	Philip Pullman, The Golden Compass
+	Louis Sachar, Holes
+	H G Wells, The War Of The Worlds
