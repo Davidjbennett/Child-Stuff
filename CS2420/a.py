@@ -23,6 +23,16 @@ smallFloatNum = 13e3
 
 # print(f"The {num} new way of formin {strng}") #! current way to format
 
+<<<<<<< HEAD
 fname = "David"
 numb = 123.456832457768
 print(f"Dudes name is {fname} and he loves the number {numb:.1f}")
+=======
+# fname = "David"
+# numb = 123.456832457768
+# print(f"Dudes name is {fname} and he loves the number {numb:005.1f}")
+
+lyst = [1,2,3,4,5,6,7,8,9,0]
+
+print(lyst.index(5))
+>>>>>>> 2407f6fde11356f2fd9c8c800a3d6a03f90e565a
