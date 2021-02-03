@@ -25,4 +25,4 @@ smallFloatNum = 13e3
 
 fname = "David"
 numb = 123.456832457768
-print(f"Dudes name is {fname} and he loves the number {numb:005.1f}")
+print(f"Dudes name is {fname} and he loves the number {numb:.1f}")
