@@ -3,7 +3,7 @@ import time
 import math
 
 random.seed(13)
-sampleLyst = random.sample(range(2000000), k=1000000)
+sampleLyst = random.sample(range(2000), k=100)
 sortedLyst = sampleLyst
 sortedLyst.sort()
 
@@ -18,10 +18,10 @@ def linear_search(lyst, target):
             return f"Target number {target} found."
     return f"{target} not found"
 
-start = time.perf_counter()
-print(linear_search(sampleLyst, 1998011))
-end = time.perf_counter()
-print(f"Time result for Linear search: {end-start:.6f}")
+# start = time.perf_counter()
+# print(linear_search(sortedLyst, 1998011))
+# end = time.perf_counter()
+# print(f"Time result for Linear search: {end-start:.6f}")
 
 
 def binary_search(lyst, target):
@@ -38,10 +38,10 @@ def binary_search(lyst, target):
         else:
             return f"{target} not found."
 
-start2 = time.perf_counter()
-print(binary_search(sortedLyst, 1998011))
-end2 = time.perf_counter()
-print(f"Time result for Binary search: {end2-start2:.6f}")
+# start2 = time.perf_counter()
+# print(binary_search(sortedLyst, 1998011))
+# end2 = time.perf_counter()
+# print(f"Time result for Binary search: {end2-start2:.6f}")
 
 
 def jump_search(lyst, target):
@@ -51,15 +51,16 @@ def jump_search(lyst, target):
     while(notFound):
         if(block > len(lyst)):
             return f"{target} not found."
-        elif(lyst[block] < target):
+        elif(lyst[block-1] < target):
             block += step
         else:
             for i in lyst[block-step:block+1]:
                 if(target == i):
-                    return f"Target number {target} found at."
+                    return f"Target number {target} found."
 
+# print(sortedLyst[99])
 start3 = time.perf_counter()
-print(jump_search(sortedLyst, 1998011))
+print(jump_search(sortedLyst, 1944))
 end3 = time.perf_counter()
 print(f"Time result for Jump search: {end3-start3:.6f}")
 
