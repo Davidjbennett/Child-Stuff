@@ -55,6 +55,25 @@ def binary_search(lyst, target):
 # print(f"Time result for Binary search: {end2-start2:.6f}")
 
 
+# def jump_search(lyst, target):
+#     ''' jump search algorithm. Takes a sorted list in lyst and
+#     searches for a target number.
+#     '''
+#     block = 0
+#     step = int(math.sqrt(len(lyst)))
+#     notFound = True
+#     while notFound:
+#         if block > len(lyst):
+#             # return f"{target} not found."
+#             return "Target not found"
+#         if lyst[block] < target:
+#             block += step
+#         else:
+#             for i in lyst[block-step:block+1]:
+#                 if target == i:
+#                     # return f"Target number {target} found."
+#                     return "Target found"
+
 def jump_search(lyst, target):
     ''' jump search algorithm. Takes a sorted list in lyst and
         searches for a target number.
@@ -76,8 +95,8 @@ def jump_search(lyst, target):
     return "Target not found"
 
 
-# print(sortedLyst[99])
+print(sortedLyst[99])
 # start3 = time.perf_counter()
-# print(jump_search(sortedLyst, 1944))
+print(jump_search(sortedLyst, 1944))
 # end3 = time.perf_counter()
 # print(f"Time result for Jump search: {end3-start3:.6f}")

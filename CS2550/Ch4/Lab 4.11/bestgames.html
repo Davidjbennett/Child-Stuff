@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<title>Best-Selling Video Games</title>
+<style>
+   :root {
+      --table-color: forestgreen;
+      --row-bg-color: honeydew;
+      font-family: Calibri, Myriad;
+   }
+
+   #game-table{
+      border: 2px solid var(--table-color);
+      text-align: center;
+      height: 200px;
+      width: 400px;
+   }
+   table caption{
+      text-transform: uppercase;
+      background-color: var(--table-color);
+      color: white;
+      padding: 10px;
+   }
+   tr:nth-child(even){
+      background-color: var(--row-bg-color);
+   }
+
+   
+</style>
+
+<body>
+   <table id="game-table">
+      <caption>Best-Selling Video Games</caption>
+      <tr>
+         <th>Title</th>
+         <th>Sales</th>
+         <th>Release Date</th>
+      </tr>
+      <tr>
+         <td>Minecraft</td>
+         <td>176,000,000</td>
+         <td>November 18, 2011</td>
+      </tr>
+      <tr>
+         <td>Tetris</td>
+         <td>170,000,000</td>
+         <td>June 6, 1984</td>
+      </tr>
+      <tr>
+         <td>Grand Theft Auto V</td>
+         <td>110,000,000</td>
+         <td>September 17, 2013</td>
+      </tr>
+      <tr>
+         <td>Wii Sports</td>
+         <td>82,870,000</td>
+         <td>November 19, 2006</td>
+      </tr>
+   </table>
+   <p>
+      Source: <a href="https://en.wikipedia.org/wiki/List_of_best-selling_video_games">Wikipedia</a>
+   </p>
+</body>
+
+</html>
