@@ -38,6 +38,9 @@ def binary_search(lyst, target):
         else:
             return f"{target} not found."
 
+liist = [0,1,2,3,4,5,6,7,8,9]
+print(binary_search(liist, 11))
+
 # start2 = time.perf_counter()
 # print(binary_search(sortedLyst, 1998011))
 # end2 = time.perf_counter()
@@ -59,8 +62,8 @@ def jump_search(lyst, target):
                     return f"Target number {target} found."
 
 # print(sortedLyst[99])
-start3 = time.perf_counter()
-print(jump_search(sortedLyst, 1944))
-end3 = time.perf_counter()
-print(f"Time result for Jump search: {end3-start3:.6f}")
+# start3 = time.perf_counter()
+# print(jump_search(sortedLyst, 1944))
+# end3 = time.perf_counter()
+# print(f"Time result for Jump search: {end3-start3:.6f}")
 
