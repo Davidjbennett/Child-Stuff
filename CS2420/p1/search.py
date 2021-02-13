@@ -78,14 +78,6 @@ def jump_search(lyst, target):
         return "Target found"
     return "Target not found"
 
-<<<<<<< HEAD
-# print(sortedLyst[99])
-# start3 = time.perf_counter()
-# print(jump_search(sortedLyst, 1944))
-# end3 = time.perf_counter()
-# print(f"Time result for Jump search: {end3-start3:.6f}")
-=======
->>>>>>> 489330bd594f5a987d7126bcb9c5bdbccacf706c
 
 # print(sortedLyst[99])
 # start3 = time.perf_counter()

@@ -1,0 +1,53 @@
+<!DOCTYPE HTML>
+<html>
+   <title>Tic-Tac-Toe</title>   
+   <style>
+   
+   body {
+      font-family: Roboto, Helvetica, sans-serif;
+      text-align: center;
+   }
+
+   .x {
+      color: red;
+   }
+   
+   .o {
+      color: blue;
+    }
+    
+   #board {
+      font: 85px arial, sans-serif;
+      margin: 3px;
+      
+      display: grid;
+      grid-template-columns: 100px 100px 100px;
+      grid-template-rows: 100px 100px 100px;
+      grid-gap: 10px;
+      justify-content: center;     
+
+   }
+
+   #board > div {
+      border: 1px solid LightSkyBlue;
+      text-align: center;
+   }
+
+   </style>
+
+   <body>
+      <h1>Tic-Tac-Toe</h1>
+        
+      <div id="board">
+         <div class="x">X</div>
+         <div class="o">O</div>
+         <div></div>
+         <div></div>
+         <div class="x">X</div>
+         <div></div>
+         <div class="o">O</div>
+         <div></div>
+         <div class="x">X</div>
+      </div>
+   </body>
+</html>
