@@ -20,6 +20,12 @@ string convert(int num, int base = 10) {
 
 int main() {
     cout << convert(30, 2) << endl;     // Binary
-    cout << convert(30) << endl;        // Decimal (default)
+    cout << "\""s + convert(30) + "\""s << endl;        // Decimal (default)
     cout << convert(30, 16) << endl;    // Hexadecimal
 }
+
+/* Output:
+11110
+"30"
+1E
+*/

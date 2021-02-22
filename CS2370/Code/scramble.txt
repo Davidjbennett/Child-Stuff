@@ -1,0 +1,93 @@
+/* Output:
+s = a, start = 0 (a)
+>>> a
+
+s = be, start = 0 (be)
+   s = be, start = 1 (e)
+>>> be
+   s = eb, start = 1 (b)
+>>> eb
+
+s = cat, start = 0 (cat)
+   s = cat, start = 1 (at)
+      s = cat, start = 2 (t)
+>>> cat
+      s = cta, start = 2 (a)
+>>> cta
+   s = act, start = 1 (ct)
+      s = act, start = 2 (t)
+>>> act
+      s = atc, start = 2 (c)
+>>> atc
+   s = tac, start = 1 (ac)
+      s = tac, start = 2 (c)
+>>> tac
+      s = tca, start = 2 (a)
+>>> tca
+
+s = hear, start = 0 (hear)
+   s = hear, start = 1 (ear)
+      s = hear, start = 2 (ar)
+         s = hear, start = 3 (r)
+>>> hear
+         s = hera, start = 3 (a)
+>>> hera
+      s = haer, start = 2 (er)
+         s = haer, start = 3 (r)
+>>> haer
+         s = hare, start = 3 (e)
+>>> hare
+      s = hrae, start = 2 (ae)
+         s = hrae, start = 3 (e)
+>>> hrae
+         s = hrea, start = 3 (a)
+>>> hrea
+   s = ehar, start = 1 (har)
+      s = ehar, start = 2 (ar)
+         s = ehar, start = 3 (r)
+>>> ehar
+         s = ehra, start = 3 (a)
+>>> ehra
+      s = eahr, start = 2 (hr)
+         s = eahr, start = 3 (r)
+>>> eahr
+         s = earh, start = 3 (h)
+>>> earh
+      s = erah, start = 2 (ah)
+         s = erah, start = 3 (h)
+>>> erah
+         s = erha, start = 3 (a)
+>>> erha
+   s = aehr, start = 1 (ehr)
+      s = aehr, start = 2 (hr)
+         s = aehr, start = 3 (r)
+>>> aehr
+         s = aerh, start = 3 (h)
+>>> aerh
+      s = aher, start = 2 (er)
+         s = aher, start = 3 (r)
+>>> aher
+         s = ahre, start = 3 (e)
+>>> ahre
+      s = arhe, start = 2 (he)
+         s = arhe, start = 3 (e)
+>>> arhe
+         s = areh, start = 3 (h)
+>>> areh
+   s = reah, start = 1 (eah)
+      s = reah, start = 2 (ah)
+         s = reah, start = 3 (h)
+>>> reah
+         s = reha, start = 3 (a)
+>>> reha
+      s = raeh, start = 2 (eh)
+         s = raeh, start = 3 (h)
+>>> raeh
+         s = rahe, start = 3 (e)
+>>> rahe
+      s = rhae, start = 2 (ae)
+         s = rhae, start = 3 (e)
+>>> rhae
+         s = rhea, start = 3 (a)
+>>> rhea
+*/

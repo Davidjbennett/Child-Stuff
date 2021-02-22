@@ -46,6 +46,8 @@ class My_List:
             oneBefore.next = temp.next
             temp.next = None
 
+    def search(self, item):
+        pass
 
     def append(self, dataval):
         if self.first == None:
@@ -95,6 +97,9 @@ class My_List:
         last = self.get(self.length() - 1)
         self.remove(last.dataval)
         return last
+    
+    def pop(self, pos):
+        pass
 
     def __str__(self):
         if (self.first == None):

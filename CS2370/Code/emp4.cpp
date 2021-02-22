@@ -5,8 +5,7 @@
 #include <vector>
 using namespace std;
 
-class Employee {
-private:
+class Employee {    // class => private by default
     unsigned int emp_id;
     string last_name;
     string first_name;
@@ -30,11 +29,11 @@ public:
         salary = sal;
     }
 
-    string first_last() const {                 // Note "const"
+    string first_last() const; {                 // Note "const"
         return first_name + " " + last_name; 
     }
 
-    // Getters
+    // Getters (aka Accessors)
     unsigned int get_id() const {
         return emp_id;
     }
@@ -90,6 +89,7 @@ double get_avg_salary(const vector<Employee>& emps) {
         sum += emp.get_salary();
     return sum/emps.size();    
 }
+
 int main() {
     vector<Employee> emps;
 
@@ -99,7 +99,7 @@ int main() {
     emps.push_back(Employee(7521,"Ward","Robert","90123 Third Blvd","San Luis Obispo","CA","90123",90123.45));
 
     // Print Employee name and salaries
-    for (auto& emp: emps) 
+    for (const auto& emp: emps) 
         cout << emp.first_last() << " earns " << emp.get_salary() << endl;
 
     // Print average salary
@@ -112,7 +112,7 @@ int main() {
     }
 
     // Print Employee name and salaries
-    for (auto& emp: emps) 
+    for (const auto& emp: emps) 
         cout << emp.first_last() << " earns " << emp.get_salary() << endl;
 
     // Print updated average salary
