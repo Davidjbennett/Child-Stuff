@@ -9,10 +9,13 @@ class Node:
 class My_List:
     def __init__(self):
         self.first = None
+        self.last = None
+        self.prev = None
 
     def add(self, dataval):
         if (self.first == None):
             self.first = Node(dataval)
+            self.last = self.first
         else:
             item = Node(dataval)
             item.next = self.first
@@ -28,6 +31,9 @@ class My_List:
 
     def remove(self, item):
         index = self.index(item)
+        if self.last == self.first:
+            self.last = None
+            self.first = None
         if index == 0:
             temp = self.first.next
             self.first.next = None
@@ -35,6 +41,8 @@ class My_List:
         elif index > 0:
             oneBefore = self.get(index - 1)
             temp = oneBefore.next
+            if self.last == temp:
+                self.last = oneBefore
             oneBefore.next = temp.next
             temp.next = None
 
@@ -42,11 +50,17 @@ class My_List:
     def append(self, dataval):
         if self.first == None:
             self.first = Node(dataval)
+            self.last = self.first
         else:
-            item = self.first
-            while item.next != None:
-                item = item.next
-            item.next = Node(dataval)
+            new_item = Node(dataval)
+            self.last.next = new_item
+            new_item.prev = self.last
+            self.last = new_item
+            new_item.next = None
+            # item = self.first
+            # while item.next != None:
+            #     item = item.next
+            # item.next = Node(dataval)
 
     def get(self, index):
         current = 0
@@ -76,6 +90,8 @@ class My_List:
         return result
 
     def pop(self):
+        last = self.last
+        self.remove(self.last.dataval)
         last = self.get(self.length() - 1)
         self.remove(last.dataval)
         return last
