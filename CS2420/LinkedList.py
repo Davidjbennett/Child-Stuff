@@ -3,6 +3,12 @@ class Node:
         self.dataval = dataval
         self.next = None
 
+    def recursiveAppend(self, dataval):
+        if self.next == None:
+            self.next = Node(dataval)
+        else:
+            self.next.recursiveAppend(dataval)
+
     def __str__(self):
         return str(self.dataval)
 
@@ -73,10 +79,16 @@ class My_List:
             item = item.next
             current += 1
         return item
-    
+
     def __len__(self):
         return self.length()
 
+    def recursiveAppend(self, dataval):
+        if self.first == None:
+            self.first = Node(dataval)
+        else:
+            self.first.recursiveAppend(dataval)
+    
     def isEmpty(self):
         return self.first == None
 
@@ -98,8 +110,10 @@ class My_List:
         self.remove(last.dataval)
         return last
     
-    def pop(self, pos):
-        pass
+    def pop(self):
+        last = self.last
+        self.remove(self.last.dataval)
+        return last
 
     def __str__(self):
         if (self.first == None):
@@ -133,6 +147,11 @@ def main():
     print(item)
     print(my_list)
     # print(my_list.get(1))
+
+    my_list.recursiveAppend(13)
+    my_list.recursiveAppend(11)
+    my_list.recursiveAppend(9)
+    print(my_list)
 
 if __name__ == "__main__":
     main()
