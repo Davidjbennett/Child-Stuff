@@ -1,0 +1,5 @@
+1400,Introduction to Programming,4,3.6
+1410,C++ Programming,4,2.6
+2810,Computer Architecture,3,3.8
+2420,Introduction to Data Structures,4,3.2
+1030,Introduction to Computers,2,3.2
