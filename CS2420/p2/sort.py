@@ -119,7 +119,7 @@ def main():
     for all list.
     """
     random.seed(13)
-    rand_lyst = random.sample(range(200), k=50)
+    rand_lyst = random.sample(range(2000), k=1000)
     search_list = ["quicksort", "mergesort", "selection", "insertion", "timsort"]
     for num in range(len(search_list)):
         test_lyst = rand_lyst.copy()

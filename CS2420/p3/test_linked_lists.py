@@ -5,14 +5,12 @@ import pytest
 import math
 from course import Course
 from courselist import CourseList
-from main import main as mn
-
 
 def test_course_creation():
     # make sure that an empty course is correct
     c = Course()
     assert c.name() == ""
-    c.number() == 0 
+    assert c.number() == 0 
     assert c.credit_hr() == 0.0
     assert c.grade() == 0.0
     assert c.next == None
@@ -82,10 +80,10 @@ def test_remove():
 
 def test_remove_all():
     cl = CourseList()
-    cl.insert(Course(1000))
+    cl.insert(Course(1000, "", 0.0, 0.0))
     for _ in range(20):
-        cl.insert(Course(1200))
-    cl.insert(Course(1800))
+        cl.insert(Course(1200, "", 0.0, 0.0))
+    cl.insert(Course(1800, "", 0.0, 0.0))
     assert cl.size() == 22
     cl.remove_all(1200)
     assert cl.size() == 2
@@ -107,9 +105,9 @@ def test_gpa():
 
 def test_iterate_list():
     cl = CourseList()
-    cl.insert(Course(1000))
+    cl.insert(Course(1000, "", 0.0, 0.0))
     for _ in range(20):
-        cl.insert(Course(1200))
+        cl.insert(Course(1200, "", 0.0, 0.0))
     totalCourses = 0
     for _ in cl:
         totalCourses += 1
