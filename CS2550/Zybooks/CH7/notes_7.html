@@ -5,22 +5,24 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Zybooks Notes CH7</title>
-    <script src="script_7.js"></script><!--How to include a js
+    <script src="script_7.js"></script>
+    <!--How to include a js
                                            in your HTML-->
   </head>
   <body>
+    <!--! 7.1 -->
     <!-- window.location is a location object that contains information about the
     window's current URL. Ex: window.location.hostname is the URL's hostname. -->
-    
+
     <!-- window.navigator is a navigator object that contains information about the
     browser. Ex: window.navigator.userAgent returns the browser's user agent
     string.  -->
-    
+
     <!-- window.innerHeight and window.innerWidth are the height and width in
     pixels of the window's content area. Ex: window.innerWidth returns 600 if
     the browser's content area is 600 pixels wide. -->
-    
-    <!-- FUNCTIONS -->
+
+    <!--! FUNCTIONS -->
     <!-- window.alert() displays an alert dialog box. Ex: window.alert("Hello")
     displays a dialog box with the message "Hello".  -->
 
@@ -42,24 +44,78 @@
       }
     </script> -->
 
-    <!-- FUNCTIONS -->
+    <!--! FUNCTIONS -->
     <!-- console.log() displays informational data to the console. -->
-    
+
     <!-- console.warn() displays warnings to the console. The browser usually has a
     special indicator to differentiate a warning from the standard log message.
     Ex: A yellow warning box. -->
-    
+
     <!-- console.error() displays errors to the console. The browser usually has a
     special indicator to differentiate an error from a warning or the standard
     log message. Ex: A red error box. -->
-    
+
     <!-- console.dir() displays a JavaScript object to the console. The browser
     usually supports a method for compactly representing the object. Ex: a
     hierarchical tree representation allowing a developer to expand and collapse
     the object contents. -->
-    
+
     <!-- console.log(document.getElementsByTagName("ul")[0]) prints off ul list -->
 
+    <!--! 7.2 -->
+    <!--! FUNCTIONS -->
+    <!-- The document.getElementById() method returns the DOM node whose id attribute
+    is the same as the method's parameter. Ex:
+    document.getElementById("early_languages") returns the p node in the HTML
+    below. -->
 
+    <!-- The document.getElementsByTagName() method returns an array of all the DOM
+    nodes whose type is the same as the method's parameter. Ex:
+    document.getElementsByTagName("li") returns a list of the four li nodes from
+    in the HTML below. -->
+
+    <!-- The document.getElementsByClassName() method returns an array containing all
+    the DOM nodes whose class attribute matches the method's parameter. Ex:
+    document.getElementsByClassName("traditional") returns an array containing
+    the ol node with the class attribute matching the word traditional. -->
+
+    <!-- The document.querySelectorAll() method returns an array containing all the
+    DOM nodes that match the CSS selector passed as the method's parameter. Ex:
+    document.querySelectorAll("li a") returns an array containing the two anchor
+    nodes in the HTML below. -->
+
+    <!-- The document.querySelector() method returns the first element found in the
+    DOM that matches the CSS selector passed as the method's parameter.
+    querySelector() expects the same types of parameters as querySelectorAll()
+    but only returns the first element found while navigating the DOM tree in a
+    depth-first traversal. Ex: document.querySelector("li") returns the li node
+    about Fortran. -->
+
+    <!-- Getter: Using the property name to read the value allows a program to
+    examine the attribute's value. Ex: nasaUrl = document.getElementById("nasa_link").href 
+    assigns nasaUrl the string "https://www.nasa.gov/" from the anchor element's href 
+    attribute. -->
+
+    <!-- Setter: Writing to a property allows a program to modify the attribute,
+    which is reflected in the rendered web page. Ex:
+    document.getElementById("nasa_link").href = "https://www.spacex.com/"
+    changes the element's hyperlink to the SpaceX URL. -->
+
+    <!-- An element's attribute can be removed using the element method
+    removeAttribute(). Ex:
+    document.getElementById("nasa_link").removeAttribute("href") removes the
+    link from the anchor element so that clicking on the HTML element no longer
+    performs an action. -->
+
+    <!-- The textContent property gets or sets a DOM node's text content. Ex:
+    document.querySelector("p").textContent = "$25.99"; changes the paragraph to
+    <p>$25.99</p> -->
+
+    <!-- The innerHTML property gets or sets a DOM node's content, including all of
+    the node's children, using an HTML-formatted string. Ex:
+    document.querySelector("p").innerHTML = "<strong>$25.99</strong>"; changes
+    the paragraph to
+    <p><strong>$25.99</strong></p> -->
+    
   </body>
 </html>

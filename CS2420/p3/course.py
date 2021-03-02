@@ -10,6 +10,14 @@ class Course:
         self.gpa = float(gpa)
         self.next = None
         self.prev = None
+        if self.course_name is None:
+            raise ValueError()
+        if self.course_num < 0:
+            raise ValueError()
+        if self.course_credits < 0:
+            raise ValueError()
+        if self.gpa < 0:
+            raise ValueError()
 
     def number(self):
         """returns course number"""

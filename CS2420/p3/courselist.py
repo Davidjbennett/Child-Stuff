@@ -1,22 +1,11 @@
 """Pointer and Courselist are datastructures used to hold data. It is a
 Ordered Linked List"""
-# class Pointer:
-#     """Pointer holds data and points to the next and previous data pieces"""
-#     def __init__(self, dataval = None):
-#         self.dataval = dataval
-#         self.next = None
-#         self.prev = None
 class CourseList:
     """Courselist is a ordered linked list type used to hold courses"""
-    
     def __init__(self):
         self.head = None
         self.tail = None
         self.count = 0
-    # A method that i was using
-    # def info(self):
-    #     print(self.first.dataval.number())
-    #     # print(self.first.dataval)
 
     def insert(self, dataval):
         """Inserts a course into the courselist in order of class number"""
@@ -40,7 +29,7 @@ class CourseList:
         """Removes a course according to number parameter"""
         current = self.head
         if number >= self.head.course_num and number <= self.tail.course_num:
-            while current.next != None and current.course_num != number:
+            while current.next is not None and current.course_num != number:
                 current = current.next
             if current.course_num == number:
                 self.__remove_item(current)
@@ -48,7 +37,7 @@ class CourseList:
     def remove_all(self, number):
         """Removes all courses with specified class number"""
         current = self.head
-        while current.next != None:
+        while current.next is not None:
             if current.course_num == number:
                 self.__remove_item(current)
             current = current.next
@@ -57,7 +46,7 @@ class CourseList:
         """finds first occurence of number in courselist"""
         current = self.head
         if number >= self.head.course_num and number <= self.tail.course_num:
-            while current.next != None and current.course_num != number:
+            while current.next is not None and current.course_num != number:
                 current = current.next
             if current.course_num == number:
                 return current
@@ -73,15 +62,18 @@ class CourseList:
             current = self.head
             total_grade_points = 0.0
             total_credits = 0.0
-            while current.next != None:
+            while current is not None:
                 total_grade_points += current.gpa * current.course_credits
                 total_credits +=  current.course_credits
                 current = current.next
             return total_grade_points/total_credits
+        return 0.0
 
     def is_sorted(self):
         """returns true if list is sorted and false otherwise"""
         current = self.head
+        if current is None:
+            return True
         while current.next is not None:
             if current.course_num > current.next.course_num:
                 return False
