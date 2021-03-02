@@ -4,6 +4,8 @@
 #ifndef POINT3_H
 #define POINT3_H
 
+// never use using namespace std in .h file
+
 class Point {
     double x = 0, y = 0;
     Point diff(const Point& p2) const ;
