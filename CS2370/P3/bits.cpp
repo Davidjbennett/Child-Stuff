@@ -22,13 +22,14 @@ public:
     bool at(int pos) const {
         assert(0 <= pos && pos < NBITS);
         // return the bit in position `pos`
-        IType mask = (1 << pos);
-        IType result = (bits & mask);
-        if(result == mask){
-            return true;
-        } else{
-            return false;
-        }
+        // IType mask = (1 << pos);
+        // IType result = (bits & mask);
+        // if(result == mask){
+        //     return true;
+        // } else{
+        //     return false;
+        // }
+        return bits &(IType(1) << pos);
     }
 
     //! DONE
@@ -184,7 +185,7 @@ int main() {
     // cout << bitset<64>(mask) << endl;
     // cout << mask;
 
-  Bits a(155155155155155);
+  Bits a(155);
   cout << a << endl;
   cout << a.at(32) << endl;
   cout << a.at(33) << endl;

@@ -21,3 +21,10 @@ int main() {
     cout << sizeof(vector<string>) << endl;
     cout << x.size() << endl;
 }
+
+/*
+56
+32
+24
+31
+*/

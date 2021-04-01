@@ -46,7 +46,7 @@ def infix2postfix(expression):
         
     return " ".join(result_list)
 
-infix2postfix("( 12 * 2 ) - 5 + ( 3 - 4 )")
+print(infix2postfix("( 12 * 2 ) - 5 + ( 3 - 4 )"))
 
 def postfix_eval(expression):
     operand_stack = Stack()
@@ -72,4 +72,4 @@ def do_math(operator, leftoperand, rightoperand):
     else:
         return leftoperand / rightoperand
 
-print(postfix_eval("1 2 + 3 * 4 5 - 6 7 + * -"))
+# print(postfix_eval("1 2 + 3 * 4 5 - 6 7 + * -"))

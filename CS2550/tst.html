@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<body>
+    <!-- <form>
+        <label for="Cost">Cost per item</label>
+        <input type="text" name="Cost" id="Cost" />
+        <label for="Quantity">Quantity</label>
+        <input type="text" name="Quantity" id="Quantity" />
+        <button>Total</button>
+    </form> -->
+    <form name="count">
+        <button type="button" id="dec">−</button>
+        <input type="number" id="count" name="count" value="100">
+        <button type="button" id="inc">+</button>
+      </form>
+    <script>
+        document.getElementById('dec').onclick = function() {
+            document.getElementById('count').value--
+        }
+        document.getElementById('inc').onclick = function() {
+            document.getElementById('count').value++
+        }
+    </script>
+</body>
+</html>
+
+<!-- <html>
+    <body>
+    <div id="click">click me</div>
+    <scrip>
+    document.getElementById('click').onclick = function() {
+        alert("You did it!");
+    }
+    </scrip>
+    </body>
+</html> -->
