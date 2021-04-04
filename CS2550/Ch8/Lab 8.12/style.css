@@ -1,0 +1,48 @@
+#formErrors{
+    display: none;
+    color: red;
+}
+header {
+    font-size: 18pt;
+    height: 15px;
+    text-align: left;
+    margin-bottom: 1rem;
+    display: block;
+    font-weight: bold;
+}
+form{
+    display: grid;
+    grid-template-columns: 100%;
+    width: 100%;
+    padding: 10px;
+    background-color: rgb(233, 233, 233);
+}
+.container{
+    width: 30%;
+    position: fixed;
+    left: 35%;
+    top: 20%;
+}
+label{
+    margin-top: 10px;
+    font-size: 12pt;
+}
+input[type="text"],
+input[type="email"],
+input[type="password"] {
+    border-style: solid;
+    border-width: 1px;
+    border-color: #aaa;
+    border-radius: 5px;
+    height: 25px;
+}
+#submit{
+    border: none;
+    border-radius: 7px;
+    font-size: 12px;
+    background-color: #34a4ff;
+    color: white;
+    padding: 12px;
+    margin-top: 20px;
+    width: auto;
+}

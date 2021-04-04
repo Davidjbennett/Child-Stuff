@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>User Registration</title>
+    <link href="style.css" rel="stylesheet" />
+    <script src="register.js" defer></script>
+  </head>
+
+  <body>
+   <span class="container">
+     <form id="login">
+      <header>User Registration</header>
+      </div><label for="fullName">Full Name</label>
+      <input type="text" id="fullName" />
+  
+      <label for="email">Email</label>
+      <input type="email" id="email" />
+  
+      <label for="password">Password</label>
+      <input type="password" id="password" />
+  
+      <label for="passwordConfirm">Confirm Password</label>
+      <input type="password" id="passwordConfirm" />
+
+      <div id="formErrors" >
+         <span id="name_error" style="display: none;"> *Name is empty.</span><br>
+         <span id="email_error" style="display: none;"> *Email is not valid</span><br>
+         <span id="password_empty" style="display: none;"> *Password is empty.</span><br>
+         <span id="password_len_error" style="display: none;"> *Password must be between 10-20.</span><br>
+         <span id="password_upper" style="display: none;"> *Password must containat least one uppercase character.</span><br>
+         <span id="password_lower" style="display: none;"> *Password must containat least one lowercase character.</span><br>
+      </div>
+  
+      <input type="submit" id="submit" value="Register"/>
+     </form>
+   </span>
+  </body>
+
+  <!-- <body>
+   <header>User Registration</header>
+   <div class="container login">
+      <form id="login" action="" method="post">
+         <div id="main">
+            <label for="fullName">Full Name</label>
+            <input type="text" id="fullName" name="fullName" />
+
+            <label for="email">Email</label>
+            <input type="email" id="email" name="email" />
+
+            <label for="password">Password:</label>
+            <input type="password" id="password" name="password" />
+
+            <label for="passwordConfirm">Confirm Password:</label>
+            <input type="password" id="passwordConfirm" name="passwordConfirm" />
+
+            <div id="formErrors" >
+               <span id="name_error" style="display: none;"> *Name is empty.</span><br>
+               <span id="email_error" style="display: none;"> *Email is not valid</span><br>
+               <span id="password_empty" style="display: none;"> *Password is empty.</span><br>
+               <span id="password_len_error" style="display: none;"> *Password must be between 10-20.</span><br>
+               <span id="password_upper" style="display: none;"> *Password must containat least one uppercase character.</span><br>
+               <span id="password_lower" style="display: none;"> *Password must containat least one lowercase character.</span><br>
+            </div>
+
+         <input type="submit" id="submit" value="Register" onclick="return check()" />
+         <input type="submit" id="submit" value="Register"/>
+
+      </form>
+   </div>
+   </body> -->
+</html>

@@ -4,6 +4,8 @@
         "ostream": "cpp",
         "*.tcc": "cpp",
         "bitset": "cpp",
-        "functional": "cpp"
+        "functional": "cpp",
+        "stdexcept": "cpp",
+        "new": "cpp"
     }
 }
