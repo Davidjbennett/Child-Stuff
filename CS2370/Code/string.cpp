@@ -69,6 +69,8 @@ int main() {
     cout << s + " " + t << endl;
 }
 
+//! why is it a char* pointer? How do you copy a string with char* holding the string val?
+//! does a = int[10] create and array size 10?
 /* Output:
 default ctor
 s0.size() == 0
