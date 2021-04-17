@@ -1,0 +1,198 @@
+57464,Almonds Ground Blanched,2.99
+23242,Apricots - Halves,0.89
+55222,Artichoke - Fresh,2.39
+23750,Bagel - Everything,2.49
+12527,Bagelers - Cinn / Brown Sugar,3.99
+54452,Bananas,0.79
+85123,Bandage - Flexible Neon,3.99
+70447,Bar - Sweet And Salty Chocolate,1.99
+25669,Bar Nature Valley,1.59
+68389,Basil - Fresh,2.89
+22248,Basil - Seedlings Cookstown,3.89
+47433,Beans - Black Bean Canned,1.19
+48704,Beans - French,1.05
+23523,Beef - Rib Roast Capless,7.00
+23022,Beef - Short Ribs,5.00
+32686,Beef - Sushi Flat Iron Steak,7.99
+11105,Beef - Tenderloin - Aa,5.99
+79758,Beef Flat Iron Steak,5.49
+63725,Black Currants,0.79
+16724,Blueberries,2.99
+80145,Bread - Country Roll,2.29
+26461,Bread - Crumbs Bulk,3.00
+66295,Bread - Dark Rye Loaf,2.99
+83203,Bread - Granary Small Pull,3.00
+88479,Bread - Italian Roll With Herbs,2.95
+43247,Bread - Pullman Sliced,2.49
+37916,Bread - Raisin Walnut Pull,2.99
+16973,Bread - Sticks Thin Plain,1.25
+62702,Breakfast Quesadillas,2.59
+82100,Butter - Salted,2.69
+12568,Cabbage - Red,0.69
+82831,Cake - Dulce De Leche,4.99
+70063,Carbonated Water - Lemon Lime,0.99
+14688,Carbonated Water - Orange,1.25
+25821,Carrots - Jumbo,0.39
+45819,Carroway Seed,2.95
+10899,Cheese - Cheddar Mild,2.69
+67193,Cheese - Cheddar Old White,1.88
+15233,Cheese - Cottage Cheese,2.49
+95673,Cheese - Gorgonzola,3.19
+34719,Cheese - Stilton,3.50
+64136,Cheese Cloth No 100,2.00
+26610,Chick Peas - Canned,0.95
+90475,Chicken - Whole,6.49
+52569,Chicken Breast Wing On,4.19
+24150,Chickensplit Half,3.99
+58740,Chocolate - Dark,3.00
+63010,Chocolate - Sugar Free Semi Choc,2.49
+93268,Chocolate Bar - Coffee Crisp,1.50
+26523,Chutney Sauce - Mango,2.65
+89921,Clams - Littleneck Whole,6.88
+15134,Cleaner - Pine Sol,2.39
+65162,Cod - Salted Boneless,4.89
+21801,Coffee - Ristretto Coffee Capsule,3.69
+54787,Cookie - Oatmeal,1.99
+40844,Cookie Dough - Oatmeal Rasin,2.29
+96894,Cookies - Englishbay Chochip,2.99
+35718,Corn Syrup,1.39
+10851,Cornflakes,3.49
+58994,Couscous,0.99
+20070,Crab - Meat,6.00
+37107,Crab Brie In Phyllo,3.39
+86494,Crackers - Trio,2.35
+48520,Crackers Cheez It,1.99
+75565,Cranberries - Fresh,0.99
+11371,Cup - 4oz Translucent,2.99
+16230,Doilies - 10 Paper,1.19
+59695,Dr. Pepper - 355ml,1.59
+25956,Energy Drink - Franks Pineapple,2.00
+44233,Flavouring - Raspberry,1.79
+56826,Flour - Bread,4.00
+15138,Flour - Rye,4.00
+48365,Flour - Semolina,4.00
+17714,Flour Pastry Super Fine,4.95
+21093,Foil Cont Round,3.00
+61792,Food Colouring - Pink,0.99
+95662,Garlic Powder,2.99
+69394,Ginger - Fresh,0.60
+49318,Green Scrubbie Pad H.duty,3.99
+14792,Grouper - Fresh,4.25
+12946,Hagen Daza - Dk Choocolate,5.99
+17981,Halibut - Fletches,8.00
+81978,Ice Cream - Fudge Bars,3.69
+37019,Instant Coffee,6.00
+75069,Jerusalem Artichoke,4.00
+56833,Jolt Cola,1.29
+92211,Juice - Apple 284ml,1.59
+47971,Juice - Lagoon Mango,1.98
+80237,Juice - Orange,2.19
+64007,Juice - Propel Sport,1.99
+23276,Juice Peach Nectar,2.45
+99880,Leeks - Large,0.60
+70616,Lemonade - Black Cherry 591 Ml,2.89
+29286,Lemonade - Strawberry 591 Ml,2.25
+77316,Lettuce - Lambs Mash,1.39
+27515,Longos - Burritos,4.00
+64067,Magnotta Bel Paese Red,3.39
+65181,Marjoram - Dried Rubbed,3.00
+28561,Marzipan 50/50,3.16
+81370,Melon - Cantaloupe,1.00
+75080,Milk 2% 500 Ml,2.00
+74445,Muffin - Banana Nut Individual,2.00
+11281,Muffin - Mix - Bran And Maple,3.25
+93294,Muffin Mix - Blueberry,3.75
+12841,Mushroom - Crimini,2.19
+82014,Nantucket Cranberry Juice,2.00
+21285,Nori Sea Weed,4.00
+56107,Numi - Assorted Teas,5.99
+63636,Nut - Pecan Pieces,4.05
+39096,Oil - Peanut,0.95
+95986,Okra,0.59
+34782,Oneshot Automatic Soap System,3.99
+32848,Onions - Green,0.70
+23753,Passion Fruit,0.99
+28264,Pasta - Fettuccine Dry,1.89
+30346,Pasta - Orzo Dry,0.99
+67408,Pasta - Penne Primavera Single,1.49
+70461,Pasta - Ravioli,1.25
+51822,Pasta - Rotini Colour Dry,1.19
+16974,Pastry - Lemon Danish - Mini,1.19
+57544,Peach - Halves,0.79
+71412,Pepper - Chipotle Canned,3.39
+32641,Pie Filling - Cherry,0.89
+64612,Pie Shells 10,7.00
+26487,Pizza Pizza Dough,4.00
+63366,Plaintain,0.30
+95812,Plasticforkblack,1.99
+30727,Plums - Red,0.40
+48938,Pork - Chop Frenched,3.79
+67035,Pork - Ham Hocks - Smoked,3.19
+55831,Puree - Blackcurrant,0.99
+75536,Quail - Whole Boneless,8.79
+63203,Raisin - Dark,1.99
+79084,Red Cod Fillets - 225g,5.59
+61041,Red Currants,1.05
+40200,Rice - Basmati,2.45
+11770,Rice - Jasmine Sented,2.69
+86456,Rice - Long Grain,2.29
+96017,Rolled Oats,2.19
+39510,Rosemary - Primerba Paste,3.09
+21809,Salmon - Atlantic Fresh Whole,4.75
+13482,Salmon - Canned,3.39
+47680,Sandwich Wrap,2.00
+20755,Sansho Powder,2.05
+84868,Sauce - Hollandaise,3.05
+18329,Scallops - In Shell,4.49
+23584,Scallops 60/80 Iqf,3.35
+96497,Scampi Tail,4.00
+46883,Sea Bass - Fillets,5.39
+79298,Shiratamako - Rice Flour,3.49
+72944,Shiro Miso,2.19
+94416,Shrimp - Baby Cold Water,4.99
+37948,Shrimp - Black Tiger 16/20,7.60
+24314,Snapple - Mango Maddness,2.00
+54044,Sole - Fillet,3.99
+16655,Soup - Campbells Chicken Noodle,1.19
+23695,Soup - Campbells Asian Noodle,1.19
+90349,Soup - Campbells Beef Noodle,1.19
+71298,Soup - Campbells Beef Strogonoff,1.19
+99771,Soup - Campbells Lentil,1.19
+55957,Soup - Campbells Chix Stew,1.19
+88379,Soup - French Onion Dry,1.89
+63073,Soup - Knorr Chicken Noodle,1.69
+84418,Soup - Knorr Country Bean,1.69
+86429,Sour Cream,2.14
+61981,Spaghetti Squash,1.99
+88019,Spinach - Spinach Leaf,0.79
+54190,Sprite Diet - 355ml,1.49
+97968,Sprouts - China Rose,0.79
+98317,Stainless Steel Cleaner Vision,4.05
+78265,Syrup - Monin Irish Cream,3.00
+10951,Syrup - Monin Swiss Choclate,3.00
+81169,Table Cloth 90x90 White,3.99
+62787,Tarragon - Primerba Paste,3.09
+43664,Tart - Butter Plain Squares,1.99
+36792,Tea - Jasmin Green,2.49
+21113,The Pop Shoppe - Grape,0.99
+34759,Thyme - Dried,2.29
+58524,Thyme - Lemon Fresh,2.19
+92053,Tilapia - Fillets,3.25
+60176,Tomato - Peeled Italian Canned,0.99
+49555,Tomatoes - Cherry,0.69
+21316,Tomatoes - Roma,2.50
+89924,Towel - Roll White,2.19
+50236,Trout Rainbow Whole,3.00
+51477,Tuna - Bluefin,2.65
+80133,Tuna - Canned Flaked Light,2.39
+63498,Vinegar - Raspberry,1.79
+41142,Vinegar - Red Wine,1.25
+91653,Vinegar - White,1.35
+26860,Waffle Stix,2.99
+44214,Wakami Seaweed,4.00
+46935,Wasabi Paste,2.69
+66141,Water - Mineral Carbonated,1.19
+39140,Whmis Spray Bottle Graduated,1.99
+16736,Wine - Red Cooking,2.00
+91450,Worcestershire Sauce,3.15
+52431,Yogurt - Peach 175 Gr,1.49
