@@ -6,6 +6,8 @@
         "bitset": "cpp",
         "functional": "cpp",
         "stdexcept": "cpp",
-        "new": "cpp"
+        "new": "cpp",
+        "iosfwd": "cpp",
+        "string": "cpp"
     }
 }

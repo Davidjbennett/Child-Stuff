@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="styles.css" rel="stylesheet"/>
+    <script src="./model.js" type="text/javascript"></script>
+    <script src="./controller.js" type="text/javascript"></script>
+    <title>RPG Character Creator</title>
+</head>
+<body>
+    <div id="characterCreationArea">
+        <h1>Character Creation</h1>
+        <form id="charEditForm">
+            <div>
+                <label for="charName"><span id="charNameLetters">Character Name:</span></label>
+                <span id="charNameError"></span>
+            </div>
+            <input type="text" id="charName">
+            
+            <div id="charStats">
+                <span>
+                    <span>Strength: </span>
+                    <span id="strength"></span>
+                </span>
+                <span>
+                    <span>Dexterity: </span>
+                    <span id="dexterity"></span>
+                </span>
+                <span>
+                    <span>Constitution: </span>
+                    <span id="constitution"></span>
+                </span>
+                <span>
+                    <span>Intelligence: </span>
+                    <span id="intelligence"></span>
+                </span>
+                <span>
+                    <span>Wisdom: </span>
+                    <span id="wisdom"></span>
+                </span>
+                <span>
+                    <span>Charisma: </span>
+                    <span id="charisma"></span>
+                </span>
+            </div>
+
+            <div id="playerRace">
+                <span class="selectors">Race </span>
+                <select name="raceSelection">
+                    <option value="human">Human</option>
+                    <option value="dwarf">Dwarf</option>
+                    <option value="elf">Elf</option>
+                    <option value="halfling">Halfling</option>
+                    <option value="gnome">Gnome</option>
+                </select>
+                <span id="playerRaceError"></span>
+            </div>
+
+            <div id="playerClass">
+                <span class="selectors">Class </span>
+                <select name="classSelection">
+                    <option value="cleric">Cleric</option>
+                    <option value="fighter">Fighter</option>
+                    <option value="ranger">Ranger</option>
+                    <option value="rogue">Rogue</option>
+                    <option value="wizard">wizard</option>
+                </select>
+                <span id="playerClassError"></span>
+            </div>
+
+            <div id="genderRadios">
+                Gender:
+                <label><input type="radio" name="genderMale" value="male" id="maleGenderRadio"/>Male</label>
+                <label><input type="radio" name="genderFemale" value="female" id="femaleGenderRadio"/>Female</label>
+                <span id="genderError"></span>
+            </div>
+
+            <div id="handPreference">
+                Are you right handed? 
+                <label><input type="checkbox" name="rightHanded"/></label>
+            </div>
+            <div>
+                <button type="button" id="rerollBtn">Reroll</button>
+                <button type="button" id="cancelBtn">Cancel</button>
+                <button type="button" id="createBtn">Create</button>
+            </div>
+        </form>
+    </div>
+    
+    <div id="characterListArea">
+        <h1>Characters</h1>
+        <table id="charTable">
+            <tr>
+                <th>Name</th>
+                <th>Race</th>
+                <th>Class</th>
+                <th>Gender</th>
+            </tr>
+        </table>
+        <div id="newBtnContainer">
+            <button type="button" id="newCharBtn">Create New Character</button>
+        </div>
+    </div>
+
+    <script>
+        createChar("J Willy", "human", "rogue", true, true)
+        createChar("Du Wippity", "elf", "cleric", true, false)
+        createChar("Feller W", "dwarf", "fighter", false, true)
+        createChar("Billy the kid", "wizard", "rogue", true, false)
+
+        onPageLoad()
+    </script>
+</body>
+</html>
