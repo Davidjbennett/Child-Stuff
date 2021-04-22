@@ -35,16 +35,6 @@ Vector& Vector::operator=(const Vector &v){
 Vector::~Vector(){
     delete[] data_ptr;
 }
-void Vector::grow(){
-    cout << "grow" << endl;
-    this->capacity = ((this->capacity*16)/10);
-    int* temp = new int[this->capacity];
-    for (int x =0; x < this->n_elems; x++){
-        temp[x] = data_ptr[x];
-    }
-    delete[] this->data_ptr;
-    this->data_ptr = temp;
-}
 //insert int at pos 0    
 int Vector::front() const{
     if (this-> n_elems == 0){
@@ -92,7 +82,13 @@ void Vector::push_back(int item){
     if (this->n_elems < this->capacity){
         this->data_ptr[n_elems++] = item;
     }else{
-        grow();
+        this->capacity = ((this->capacity*16)/10);
+        int* temp = new int[this->capacity];
+        for (int x =0; x < this->n_elems; x++){
+            temp[x] = data_ptr[x];
+        }
+        delete[] this->data_ptr;
+        this->data_ptr = temp;
         this->data_ptr[n_elems] = item;
         n_elems++;
     }
@@ -119,7 +115,13 @@ void Vector::erase(size_t pos){
 // moves elements at x and up 1 right of pos x and inserts element at pos x
 void Vector::insert(size_t pos, int item){ 
     if(capacity==n_elems){
-        grow();
+        capacity = (capacity*16)/10;
+        int* temp_ptr = new int[capacity];
+        for(int i=0;i<n_elems;i++){
+            temp_ptr[i] = data_ptr[i];
+        } 
+        delete[] data_ptr;
+        data_ptr = temp_ptr;
     }
     for(int i=n_elems;i>pos;i--){
         data_ptr[i] = data_ptr[i-1];
