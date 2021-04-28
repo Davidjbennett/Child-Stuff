@@ -39,7 +39,7 @@ class Graph:
         self.__matrix = [[None for x in range(vertices_count + 1)] for y in range(vertices_count + 1)]   
         for i in range(0, vertices_count):
             for j in range(0, vertices_count):
-                self.__matrix[i][j] = temp[i][j]     
+                self.__matrix[i][j] = temp[i][j]
     
     def add_edge(self, src, dest, w):
         if src not in self.__vertices or dest not in self.__vertices:
@@ -162,31 +162,53 @@ def dijkstra_shortest_path(graph, starting_vertex, target_vertex):
         else:
             priority_queue.append((float('infinity'), vertex, None))                    
     
+    #! why run while prio < infinity?
+    # while loop grabs neighbor and vert and distance between those 2 and puts in prio
+    # queue
     while priority_queue[0][0] < float('infinity') and target_vertex not in visited:
         # Get the current node, the first unvisited node in the priority queue
         for i in range(vertex_count):
             if priority_queue[i][1] not in visited:
                 current_vertex = priority_queue[i][1]
+                #!is distance set to infinity? if so how does 
                 current_distance = priority_queue[i][0]
-                break;        
+                break
+            #! What is this break doing? does it break out after grabbing first unvisited vert?     
         
         # Visit all the neighbors and assign a tentative distance
         for item in graph.neighbors(current_vertex):
+            #grab neighbor of current_vert
             neighbor = item[0]
+            #if neighbor has been visited just continue to next neighbor
             if neighbor in visited:
-                continue;
+                continue
+            # grabs neighbors weight
             weight = item[1]
+            #get total distance to current_vert and add on neighbors distance
+            #! how is distance set? isnt current_distance infinity? actually how is current
+            #! distance accessed? wasnt it created out of scope in the earlier for loop?
             distance = current_distance + weight
             # Find the vertex in the priority queue to check and update its distances
+            # find index of neighbor 
             neighbor_index = getIndex(priority_queue, neighbor)
+            # if neighbor is not in priority list (which means its not in graph)
+            # it will return a -1 and jump out of for loop
             if neighbor_index == -1:
-                continue                
+                continue
+            # grabs neighbor from prio queue. prio queue elements were set to (weight of
+            # infinity, vert name, None) all inside a tuple as can be seen. If the neighbors
+            # distance which should be infinity is > than current distance which is current
+            # distance + neighbors distance. Then set that index in prio queue to a tuple of
+            # (distance, neighbor, current vert)
             elif (priority_queue[neighbor_index][0] > distance):
                 priority_queue[neighbor_index] = (distance, neighbor, current_vertex)
 
+        # make current vert visited
         visited.append(current_vertex)
 
-        # Sort list so lowest distance is on top
+        # Sort list by distance so lowest distance is on top
+        #! How does the lambda work? It plugs prio queue into x and sets key to the 0th
+        #! element of prio queue? Does it loop through each element in prio queue?
         priority_queue = sorted(priority_queue, key = lambda x:x[0])
     
     # See if we found a path
@@ -270,7 +292,8 @@ graph.add_edge2way("cf", "ff", 5)
 # In[48]:
 
 
-dijkstra_shortest_path(graph, "sq", "ss")
+print(dijkstra_shortest_path(graph, "sq", "ss"))
+# print(dijkstra_shortest_distance(graph, "sq"))
 
 
 # In[ ]:
