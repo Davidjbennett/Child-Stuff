@@ -291,7 +291,7 @@ graph.add_edge2way("cf", "ff", 5)
 
 # In[48]:
 
-
+# print(graph)
 print(dijkstra_shortest_path(graph, "sq", "ss"))
 # print(dijkstra_shortest_distance(graph, "sq"))
 
