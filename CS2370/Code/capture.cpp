@@ -3,6 +3,8 @@
 #include <fstream>
 #include <iostream>
 #include <vector>
+#include <algorithm>
+#include <iterator>
 using namespace std;
 
 int main() {
@@ -22,10 +24,13 @@ int main() {
         }
         cout << endl;
 
-        // Example 2: Capture nums for modification (make everything odd)
-        auto make_odd = [&nums](int n){return n%2 == 0 ? n+1 : n;};
+	int lastnum = 0;
+        // Example 2: Make everything odd, but capture the last number
+        auto make_odd = [&lastnum](int n){lastnum = n; return n%2 == 0 ? n+1 : n;};
         transform(begin(nums), end(nums), begin(nums), make_odd);
         copy(begin(nums), end(nums), ostream_iterator<int>(cout, "\n"));
+
+	cout << lastnum << endl;
     }
 }
 

@@ -18,7 +18,7 @@ public:
     Fraction(int n = 0, int d = 1) {
         if (d == 0)
             throw invalid_argument("zero denominator not allowed");
-        int div = gcd(n, d);
+        int div = gcd(abs(n), abs(d));
         if (div > 1) {
             n /= div;
             d /= div;

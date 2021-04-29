@@ -6,7 +6,7 @@ using namespace std;
 
 char* String::init(const char* from) {
     cout << "init from \"" << from << "\"\n";
-    return strcpy(new char[strlen(from+1)], from);
+    return strcpy(new char[strlen(from)+1], from);
 }
 
 String::String(const char* s) {     // Lose default argument!
@@ -14,12 +14,12 @@ String::String(const char* s) {     // Lose default argument!
     data_ptr = init(s);
 }
 
-String::String(const String& s) {            // Copy constructor
+String::String(const String& s) {   // Copy constructor
     cout << "copy ctor\n";
     data_ptr = init(s.data_ptr);
 }
 
-String::~String() {                          // Destructor
+String::~String() {                 // Destructor
     cout << "dtor\n";
     delete [] data_ptr;
 }

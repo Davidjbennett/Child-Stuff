@@ -2,7 +2,7 @@
 #include <typeinfo>
 using namespace std;
 
-void arr_type(int* a) {              // 10 is ignored (size is lost)
+void arr_type(int a[]) {   // Same as `int* a`. Size is lost
     cout << typeid(a).name() << endl;
 }
 

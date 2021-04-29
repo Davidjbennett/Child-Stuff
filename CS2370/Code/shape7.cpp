@@ -10,14 +10,14 @@ using namespace std;
 const double PI = 3.141592653;
 
 class Shape {
-    inline static int next_id = 0;
+    inline static int next_id = 1;
 
 protected:
     const int id;
 
 public:
-    Shape() : id(++next_id) {}
-    virtual ~Shape(){cout << "~Shape()\n";}
+    Shape() : id(next_id++) {}
+    virtual ~Shape(){cout << "~Shape()\n";}     // or `virtual ~Shape() = default;`
     int getID() const {
         return id;
     }
@@ -25,7 +25,9 @@ public:
         return 0.0;
     }
     virtual string to_string() const {
-        return "Shape";
+        ostringstream oss;
+        oss << "Shape(id=" << id << ')';
+        return oss.str();
     }
 };
 
@@ -91,7 +93,7 @@ public:
 
 int main() {
     vector<unique_ptr<Shape>> shapes;
-    shapes.emplace_back(new Circle(3.0));
+    shapes.push_back(unique_ptr<Shape>(new Circle(3.0)));
     shapes.emplace_back(new Circle(4.0));
     shapes.emplace_back(new Rectangle(20,30));
     shapes.emplace_back(new Triangle(20,30,40));

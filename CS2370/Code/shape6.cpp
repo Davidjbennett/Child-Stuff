@@ -9,13 +9,13 @@ using namespace std;
 const double PI = 3.141592653;
 
 class Shape {
-    inline static int next_id = 0;
+    inline static int next_id = 1;
 
 protected:
     const int id;
 
 public:
-    Shape() : id(++next_id) {}
+    Shape() : id(next_id++) {}
     virtual ~Shape(){cout << "~Shape()\n";}     // Try with and without virtual
     int getID() const {
         return id;
@@ -24,7 +24,9 @@ public:
         return 0.0;
     }
     virtual string to_string() const {
-        return "Shape";
+        ostringstream oss;
+        oss << "Shape(id=" << id << ')';
+        return oss.str();
     }
 };
 
@@ -94,12 +96,12 @@ int main() {
     for (const Shape* p: shapes)
         cout << p->to_string() << endl;
 
-    // // Freeing memory leaves deleted pointers in the vector!
-    // for (Shape* p: shapes)
-    //     delete p;
+    // Freeing memory leaves deleted pointers in the vector!
+    for (Shape* p: shapes)
+        delete p;
 
-    // // So we better do this immediately!
-    // shapes.clear();
+    // So we better do this immediately!
+    shapes.clear();
 }
 
 /* Output:

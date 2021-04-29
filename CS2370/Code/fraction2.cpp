@@ -14,7 +14,7 @@ class Fraction {
 public:
     Fraction(int n = 0, int d = 1) {
         assert(d != 0);
-        int div = gcd(n, d);
+        int div = gcd(abs(n), abs(d));
         if (div > 1) {
             n /= div;
             d /= div;

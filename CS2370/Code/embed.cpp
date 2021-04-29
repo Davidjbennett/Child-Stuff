@@ -16,15 +16,8 @@ public:
 
 int main() {
     Foo x;
-    cout << "sizeof(x): " << sizeof(x) << endl;
-    cout << "sizeof(string): " << sizeof(string) << endl;
-    cout << "sizeof(vector<string>): " << sizeof(vector<string>) << endl;
-    cout << "x.size(): " << x.size() << endl;
+    cout << sizeof(x) << endl;
+    cout << sizeof(string) << endl;
+    cout << sizeof(vector<string>) << endl;
+    cout << x.size() << endl;
 }
-
-/*
-sizeof(x): 56
-sizeof(string): 32        
-sizeof(vector<string>): 24
-x.size(): 31
-*/

@@ -14,9 +14,9 @@ class Fraction {
         return (n == 0) ? m : gcd(n, m % n);
     }
 public:
-    Fraction(int n = 0, int d = 1) {
+    Fraction(int n = 0, int d = 1) { // Can be called with 1 arg
         assert(d != 0);
-        int div = gcd(n, d);
+        int div = gcd(abs(n), abs(d));
         if (div > 1) {
             n /= div;
             d /= div;
@@ -46,7 +46,7 @@ int main() {
     cout << f1 + 1 << endl;
 
     // The following now works
-    cout << 1 + f1 << endl;
+    cout << 1 + f1 << endl; // operator+(Fraction(1), f1)
 }
 
 /* Output:

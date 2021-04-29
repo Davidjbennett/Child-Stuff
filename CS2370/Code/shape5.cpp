@@ -16,21 +16,20 @@ using namespace std;
 const double PI = 3.141592653;
 
 class Shape {
-    inline static int next_id = 0;
+    inline static int next_id = 1;
 
 protected:
     const int id;
 
 public:
-    Shape() : id(++next_id) {}
-    int getID() const {
-        return id;
-    }
+    Shape() : id(next_id++) {}
     virtual double area() const {
         return 0.0;
     }
     virtual string to_string() const {
-        return "Shape";
+        ostringstream oss;
+        oss << "Shape(id=" << id << ')';
+        return oss.str();
     }
 };
 

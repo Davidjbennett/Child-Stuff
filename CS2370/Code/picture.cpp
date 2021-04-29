@@ -1,4 +1,4 @@
-// picture.cpp: Shows Initialization in a class hierarchy
+// picture.cpp: Shows Initialization in a class hierarchy (other methods not implemented)
 #include <string>
 using namespace std;
 

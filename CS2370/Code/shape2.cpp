@@ -1,4 +1,4 @@
-// shape2.cpp: Comment-out an override and see what happens.
+// shape2.cpp: Comment-out an `override` and see what happens.
 #include <cmath>
 #include <iostream>
 #include <sstream>
@@ -8,16 +8,16 @@ const double PI = 3.141592653;
 
 class Shape {
     int id;
-    inline static int next_id = 0;
+    inline static int next_id = 1;
 public:
     Shape() {
-        id = ++next_id;
+        id = next_id++;
     }
     int getID() const {
         return id;
     }
-    virtual double area() const = 0;  // No body needed
-    virtual string to_string() const = 0;
+    virtual double area() const = 0;        // No body needed
+    virtual string to_string() const = 0;   // Ditto
 };
 
 class Circle : public Shape {

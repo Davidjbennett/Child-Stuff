@@ -8,10 +8,10 @@ const double PI = 3.141592653;
 
 class Shape {
     int id;
-    inline static int next_id = 0;
+    inline static int next_id = 1;
 public:
     Shape() {
-        id = ++next_id;
+        id = next_id++;
     }
     int getID() const {
         return id;

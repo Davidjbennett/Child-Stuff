@@ -54,6 +54,7 @@ public:
 
 int main() {
     String s("hello");
+    String q();
     String t("there");
     cout << s + " " + t << endl;
 }

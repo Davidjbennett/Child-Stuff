@@ -11,15 +11,15 @@ const double PI = 3.141592653;
 
 class Shape {
     int id;
-    inline static int next_id = 0;
+    inline static int next_id = 1;
 public:
     Shape() {
-        id = ++next_id;
+        id = next_id++;
     }
     int getID() const {
         return id;
     }
-    virtual double area() const = 0;  // No body needed
+    virtual double area() const = 0;
     virtual string to_string() const = 0;
 };
 
@@ -96,8 +96,8 @@ int main() {
 //  Shape shapes[] = {c1, c2, r, t};
 
     Shape* shapes[] = {&c1, &c2, &r, &t};
-    for (Shape* ptr: shapes) 
-        cout << ptr->to_string() << endl;   // Polymorphism!   
+    for (const Shape* ptr: shapes) 
+        cout << ptr->to_string() << endl;   // Polymorphism! (*ptr).to_string() 
 }
 
 /* Output:

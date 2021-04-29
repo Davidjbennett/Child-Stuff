@@ -8,6 +8,8 @@
         "stdexcept": "cpp",
         "new": "cpp",
         "iosfwd": "cpp",
-        "string": "cpp"
+        "string": "cpp",
+        "map": "cpp",
+        "set": "cpp"
     }
 }

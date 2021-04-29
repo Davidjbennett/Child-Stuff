@@ -1,4 +1,5 @@
-// shape4.cpp: Passing objects as arguments
+// shape4.cpp: Illustrates how passing objects as parameters
+// affects polymorphism.
 
 #include <cmath>
 #include <iostream>
@@ -8,11 +9,12 @@ using namespace std;
 const double PI = 3.141592653;
 
 class Shape {
+    inline static int next_id = 1;
     int id;
-    inline static int next_id = 0;
+
 public:
     Shape() {
-        id = ++next_id;
+        id = next_id++;
     }
     int getID() const {
         return id;
@@ -22,7 +24,9 @@ public:
         return 0.0;
     }
     virtual string to_string() const {
-        return "Shape";
+        ostringstream oss;
+        oss << "Shape(id=" << id << ')';
+        return oss.str();
     }
 };
 

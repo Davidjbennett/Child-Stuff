@@ -18,7 +18,9 @@ int main() {
         if (wlength.find(len) != wlength.end())
             ++wlength.at(len);
         else
+            /* Pick one of the following to add a new entry */
             wlength.emplace(len, 1);
+            //wlength.insert(make_pair(len, 1));
     }
 
     for (const auto& pair: wlength)

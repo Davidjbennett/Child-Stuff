@@ -20,6 +20,7 @@ public:
 void g() {
     Foo b(2);
     throw runtime_error("I give up!");
+    cout << "g\n";  // Won't print
 }
 void f() {
     Foo a(1);

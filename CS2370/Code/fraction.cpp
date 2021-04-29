@@ -13,15 +13,17 @@ class Fraction {
     int num;
     int den;
     static int gcd(int m, int n) {
+        assert( m>= 0 && n >= 0);
         // Greatest common divisor (Euclid's algorithm)
         // Principle: gcd(m, n) == gcd(n, m % n)
         // Repeat until you get 0. The previous result is the gcd
         return (n == 0) ? m : gcd(n, m%n);
     }
 public:
+    // 3 constructors in one!s
     Fraction(int n = 0, int d = 1) {
-        assert(d != 0);         // Zero denominator not allowed
-        int div = gcd(n, d);    // Find gcd to reduce to lowest terms
+        assert(d != 0);                 // Zero denominator not allowed
+        int div = gcd(abs(n), abs(d));  // Find gcd to reduce to lowest terms
         if (div > 1) {
             n /= div;
             d /= div;
@@ -56,6 +58,9 @@ int main() {
     sum.display();
     prod = f3.mult(zero);
     prod.display();
+
+    Fraction f4(2, -4);
+    f4.display();
 }
 
 /* Output:
