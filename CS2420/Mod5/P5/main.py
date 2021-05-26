@@ -64,7 +64,7 @@ def make_tree():
     :returns: A binary search tree
     '''
     my_tree = BST()
-    with open("D:\\UVU\\Code\\Fall2020\\Child-Stuff\\CS2420\\Mod5\\P5\\around-the-world-in-80-days-3.txt", "r") as f:
+    with open("D:\\UVU\\DavidBennett\\CS2420\\Mod5\\P5\\around-the-world-in-80-days-3.txt", "r") as f:
         paragraph = f.read()
         for letter in paragraph:
             if letter.isalnum():
@@ -73,6 +73,7 @@ def make_tree():
                     letter_obj.count += 1
                 except ValueError:
                     my_tree.add(Pair(letter))
+    # print(my_tree.inorder())
     return my_tree
     # print(my_tree)
     # print(my_tree.inorder())
